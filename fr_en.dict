@@ -1,0 +1,1585 @@
+Def Vitesse AVD,DEF FRW Speed
+Def Vitesse AVG,DEF FLW speed
+Jour,Day
+Service,Service
+Nom 1Def,Name 1def
+Capteur roue AVD Comparaison de vitesse,FRW sensor Speed comparison
+Capteur roue AVD Defaut electrique,FRW sensor Electrical fault
+Capteur roue AVD Defaut plausibilite,FRW sensor Plausibility fault
+Surtension,Surge
+Capteur roue AVG Comparaison de vitesse,FLW sensor Speed comparison
+Cible ARD,Target
+Capteur roue AVG Default electrique,FLW sensor Electrical fault
+Capteur roue AVG Defaut de plausibilite,FLW sensor Plausibility fault
+Cible ARG,BLW target
+Capteur roue ARD Comparaison de vitesse,BRW sensor Speed comparison
+Capteur roue ARD Defaut electrique,BRW sensor Electrical fault
+Capteur roue ARD Defaut de plausibilite,BRW sensor Plausibility fault
+Defaut electrovanne,Solenoid valve fault
+Capteur roue ARG Comparaisonde vitesse,BLW sensor Speed comparison
+Temps d activation des EV trop long,Too long EV activation time
+Capteur roue ARG Defaut electrique,BLW sensor Electrical fault
+Capteur roue ARG Defaut de plausibilite,BLW sensor Plausibility fault
+Sous-tension,Under pressure
+Cible AVD,FRW target
+Cible AVG,FLW target
+Defaut Calculateur,Calculator default
+Defaut relais ou alimentation,Relay or power supply fault
+Incoherence vitesses roues,Wheel speed inconsistency
+Contact Stop,Stop contact
+Voyant ABS etou REF Defaut electrique,ABS and or REF warning light Electrical fault
+Defaut moteur ou alimentation,Engine or power supply
+REF Off,Ref off
+REF On,Ref on
+Info Rotation Engine Pump,Info Rotation Engine Pump
+Etat fontion REF,REF function status
+REF inactif,Inactive
+REF Actif,Active ref
+Jour UCE,ECU day
+Def Vitesse ARD,DEF BRW Speed
+Def Compteur Apparition,DEF Appearance
+Def Vitesse ARG,DEF BLW Speed
+ABS Off,ABS OFF
+ABS On,ABS ON
+Mois,Month
+Janvier,January
+Mars,March
+Avril,April
+Mai,May
+Juin,June
+Juillet,July
+Aout,August
+Octobre,October
+Novembre,November
+Mois APV,APV month
+DIAGMODE,Diagmode
+Mode Etude,Study mode
+Mode Usine,Factory mode
+Mode APV,APV mode
+Nom 3 Def,Name 3 Def
+Cpateur roue ARD Defaut electrique,BRW sensor Electrical fault
+Historical Failure,Historical Failure
+No,No
+Yes,Yes
+Current Failure,Current Failure
+Vitesse roue ARG,BLW wheel speed
+Nom 7 Def,Name 7 DEF
+Nom 4 Def,Name 4 DEF
+Vitesse roue ARD,BRW wheel speed
+Vitesse roue AVG,FLW wheel speed
+Vitesse roue AVD,FRW wheel speed
+StatusDCT,Status DTC
+Defaut Memorise,Stored fault
+Defaut present,Fault present
+Status5,Status5
+Status4,Status4
+Status7,Status7
+Etat contact stop On-Off,Stop on-off contact state
+Normal,Normal
+Status1,Status1
+Status3,Status3
+Jour APV,APV day
+Tension Alim,Power supply
+Remplissage EV Status,Filling EV Status
+Bon,Good
+Non fait,Not done
+Status8,Status8
+Echo Service,Echo Service
+Jour FAB,Fab Day
+Status Remplissage,Status Filling
+Correct,Correct
+Non Correct,Unrelated
+FirstDTC,First DTC
+Capteur de vitesse roue AVD comparaison de vitesse,FRW speed sensor comparison
+Capteur de vitesse roue AVD defaut electrique,FRW speed sensor Electrical fault
+Capteur de vitesse roue AVD defaut de plausibilite,FRW speed sensor Plausibility fault
+Defaut de surtension,Overvoltage fault
+Capteur de vitesse roue AVG Comparaison de vitesse,FLW speed sensor comparison
+Cible roue ARD,BRW wheel target
+Capteur de vitesse roue AVG Defaut electrique,FLW speed sensor Electrical fault
+Capteur de vitesse roue AVG Defaut de plausibilite,FLW speed sensor Plausibility fault
+Cible roue ARG,BLW wheel target
+Capteur de vitesse roue ARD Comparaison de vitesse,FLW speed sensor comparison
+Capteur de vitesse roue ARD Defaut electique,FLW speed sensor Electrical fault
+Capteur de vitesse roue ARD Defaut de plausibilite,FLW speed sensor Plausibility fault
+Defaut des electrovannes,Faulty solenoid valves
+Capteur de vitesse roue ARG Comparaison de vitesse,BLW speed sensor comparison
+Temps trop long d activation des EV,EV activation time too long
+Capteur de vitesse roue ARG defaut electrique,BLW speed sensor Electrical fault
+Capteur de vitesse roue ARG Defaut de plausibilite,BLW speed sensor Plausibility fault
+Defaut de Sous tension,Under tension
+Cible roue AVD,FRW wheel target
+Cible roue AVG,FLW wheel target
+Defaut de l UCE,ECU fault
+Defaut du relais,Relay fault
+Incoherence de la vitesse roue,Wheel speed inconsistency
+Defaut contact stop,Stop contact fault
+Defaut Voyant ABS etou REF,Fault ABS andor REF warning light
+2000,2000
+2001,2001
+2002,2002
+2003,2003
+1999,1999
+Mois UCE,ECU month
+Nom 2 Def,Name 2 Def
+NDTC,NDTC
+Status2,Status2
+Nom 6 Def,Name 6 DEF
+Etat fonction ABS,ABS Function State
+ABS inactif,Inactive ABS
+ABS Actif,Active ABS
+Status6,Status6
+Valeur Index,Index value
+205/65R16,205/65R16
+215/65R16,215/65R16
+195/65R16,195/65R16
+195/75R16,195/75R16
+NON FAIT,NOT DONE
+Def Etat du contact Feu Stop,Def State of the Stop light contact
+Def Tension Bat,Def Bat Voltage
+Nom 8 Def,Name 8 DEF
+FFN,FFN
+MoreDTC,More DTC
+Mois FAB,FAB month
+Session Name,Session Name
+fournisseur,vendor
+Usine,Factory
+APV,APV
+Index Pneu,Tire index
+Identification,Identification
+Specific Fault,Specific Fault
+Nom 5 Def,Name 5 Def
+Standard Fault,Standard Fault
+Identification_Pneu_Vitesse,Identification_Tire_Speed
+ReadDTC plus,ReadDTC Plus
+Vitesses Roues,Wheels speeds
+StopCommunication,StopCommunication
+EV Echap ARD,EV ECHAP BRW
+EV Echap ARG,EV ECHAP BLW
+EV Echap AVG,EV ECHAP FLW
+Stop pump,Stop pump
+EV Sart ARD,EV SART BRW
+EV Start AVD,EV Start FRW
+Lecture Dates,Date reading
+TesterPresent,TesterPresent
+EV Echap AVD,EV ECHAP FRW
+EcritureEV,Writing
+RAZ,Erase
+EV Start AVG,EV Start FLW
+Sart pump,Start Pump
+Start Com,Start com
+DiagMode,Diagmode
+Firstdtc,First DTC
+Raz defects,Erase defects
+RAZ DEFUTS,Erase faults
+Info rotation moteur pompe,Info Rotation Engine Pump
+Ecran Etudes,Investigation screen
+Ecriture Valeurs,Writing values
+Pannes,Breakdowns
+Pilotage,Piloting
+CHOIX DES DATES,Choice of dates
+CONTROL REMPLISSAGE EV,EV Fill Control
+ECRITURE DATE,Writing Date
+Relecture,Proofreading
+SERVICE ECRITURE,Writing service
+VALEUR INDEX,Index value
+Choix du Diagmode,Choice of diagmode
+Ecriture INDEX,Index Writing
+Ecriture Rempli EV,Writing filled EV
+Ecriture Valeurs Choisies,Writing chosen values
+ROUE ARD,BRW wheel
+ROUE ARG,BLW wheel
+ROUE AVD,FRW wheel
+ROUE AVG,FLW wheel
+MOTEUR,ENGINE
+PILOTAGE DES ACTIONNEURS,Management of actuators
+EV ARD,EV BRW
+EV ARG,EV BLW
+DATE FAB VEHICULE,Fab vehicle date
+DATE FABRICATION UCE,ECU manufacturing date
+DATE INTER APV,Inter APV date
+INFORMATIONS GENERALES,GENERAL INFORMATIONS
+Lecture des Dates,Date reading
+INFO,Info
+LECTURE DES DONNEES,Reading of the data
+VITESSE,SPEED
+1/ LECTURE DES CODES DEFAUTS,1/ Reading of defect codes
+2/ LECTURE ETAT DES DEFAUTS,2/ Reading state of defects
+Context de vitesse,Speed context
+RAZ DEFAUTS,Erase faults
+RAZ des DEFAUTS,Erase faults
+VITESSE ,SPEED
+ABS ETOU REF DEFAUL ELECTRIC,ABS ETOU REF ELECTRIC FAULT
+Stopcommunication,StopCommunication
+EV ECHAP ARD,EV ECHAP BRW
+EV ECHAP ARG,EV ECHAP BLW
+EV ECHAP AVG,EV ECHAP FLW
+EV SART ARD,EV SART BRW
+EV ECHAP AVD,EV ECHAP FRW
+Raz,Erase
+Sart Pump,Sart Pump
+Start com,Start com
+Readdtc,Readdtc
+Activation POMPE,Pump activation
+Type Of Fault,Type of Fault
+Standard,Standard
+Specific,Specific
+Start Diagnostic Session,Start diagnostic session
+EcritureDate,WritingDate
+Stop EV,Stop EV
+ReadDTC,ReadDTC
+EcriturePneu,WritingTire
+Contexte Panne,Breakdown
+EV Start ARG,EV Start BLW
+Purge,Purge
+PURGE,PURGE
+EV AVD,EV FRW
+EV AVG,EV FLW
+IDENTIFICATION,IDENTIFICATION
+Diagmode,Diagmode
+Frein vu,Brake
+Couple Moteur effectif Max,MAX Effective engine torque
+Tension reference ADC,ADC Reference Tension
+RCO Volet d'admission,RCO Admission shutter
+FLGCLIM4,FLGCLIM4
+Non,Nope
+Oui,Yes
+Etat trame EDC (CE),State Trame Edc (CE)
+RAMI,RUMMY
+Etat coupure moteur pdt powerlatch (CE),PDT Powerlatch (CE) engine cut -off statement
+Detection de presence des infos controle de trajectoire,Detection of the info of trajectory control
+Pression FAP diff (CE),FAP Pressure Diff (CE)
+Etat trame CLIM (CE),State CLIM (CE)
+Code corrompu (CE),Corrupted code (CE)
+Status gel CTP,Status Gel CTP
+RCO volet Swirl (CE),RCO Swirl Shutter (CE)
+Couple interne avant FMTC,Internal torque before FMTC
+Embrayage vu,Clutch seen
+Coupure moteur reversible,Reversible engine cut
+Module BVA,BVA module
+Coupure moteur irreversible,Irreversible engine cut
+Etat ByPass EGR (CE),State bypass EGR (CE)
+Etat relais thermonplongeur 3 (CE),Immersion heater 3 (CE) relay statement
+Pression rail actuelle (CE),Current rail pressure (CE)
+Temperature avant FAP (CE),Temperature before Fap (CE)
+Ratio vanne EGR (CE),EGR valve ratio (CE)
+Etat powerlatch (CE),Powerlatch State (CE)
+Commande GMV2 par CLIM,GMV2 command by air conditioning
+Information frein principal,Main brake information
+Module EDC,EDC module
+Message Mux - LSB,MUX message - LSB
+Tension capteur pression avant turbine (CE),Turbine front pressure sensor voltage (CE)
+Phasage injection PoI1,POI1 injection phasing
+Conditions coupures regulateur air (CE),Air Regulator Conditions (CE)
+DiagOnMux,Diagonmux
+Charge alternateur,Alternator load
+Demande clim.,Request air conditioning.
+Compteur d'erreur volet d'admission,Error meter intake flap
+Etat trame BVA (CE),State Trame BVA (CE)
+Ecriture Kilometrage parcouru depuis changement FAP,Writing kilometering traveled since FAP change
+Synchro (CE),Synchro (CE)
+Code appris,Code learned
+Demande ralenti de la clim,Sleeve request for air conditioning
+PROCLMZ1,Proclmz1
+Tension batterie,Battery voltage
+Detection transitoire turbo,Turbo transitional detection
+PROCLMZ3,Proclmz3
+PROCLMZ2,Proclmz2
+Consigne de position vanne EGR,EGR valve position set
+PROCLMZ4,Proclmz4
+Etat vu embrayage (CE),State seen clutch (CE)
+Etat relais thermoplongeur 1,Immersion heater 1 relay state
+Etat relais thermoplongeur 3,Immersion heater 3 relay state
+Etat relais thermoplongeur 2,Immersion heater 2 relay state
+Etat erreur CLIM (CE),CLIM ERRITY (CE) Error
+Couple demande conducteur brute,Brute driver's couple
+Etat Bus CAN (CE),CAN Bus State (CE)
+Switch frein filaire/CAN (CE),Willed/can (CE) switch
+Ecriture Compteur offset turbo Ok (EEPROM),Scripture offset turbo OK (Eeprom)
+Tension capteur pression sural. (CE),SURAL PRESSURT PRESSURT.(THIS)
+Dernier Offset Vanne EGR (CE),Last EGR valve offset (CE)
+Puissance max. CTP,Max power.CTP
+Arriere vue,Rear view
+Chemin de coupure moteur,Engine cutting path
+RCO volet d'admission (CE),RCO Admission component (CE)
+Rapport de transmission Drive Train,Drive train transmission ratio
+Rapport de transmission,Transmission report
+Offset turbo FAP propre (EEPROM),Offset Turbo Fap Clean (Eeprom)
+Ecriture Dernier Offset Vanne EGR,Last offset EGR valve
+Etat synchro TPU (CE),TPU Synchro State (CE)
+Data injecteur 1,Data injector 1
+Tension capteur pression rail (CE),Rail pressure sensor voltage (CE)
+Data injecteur 2,Data injector 2
+Data injecteur 4,Data injector 4
+Tension capteur pression AC (CE),AC pressure sensor voltage (CE)
+Signal CAN absent ou non valide,Signal can absent or not valid
+circuit ouvert,open circuit
+court circuit masse,short mass circuit
+court circuit au plus batterie,Short circuit at most battery
+Absence de signal,Absence of signal
+en dessous du seuil min,below the min
+au dessus du seuil max,Above the Max threshold
+niveau bas permanent,Permanent low level
+niveau haut permanent,permanent level
+lignes en court circuit,Short circuit lines
+diagnostic,diagnostic
+microcoupures,microcoupures
+tension anormale,abnormal tension
+valeur hors gamme,out -of -range value
+circuit ouvert ou court circuit masse,Open or short circuit Circuit Mass
+circuit ouvert ou court circuit au plus batterie,open or short circuit circuit at most battery
+initalisation / configuration invalide,Initialization / Invalid configuration
+Convertisseur A-N,A-N converter
+Composant de pilotage injecteurs,Injector piloting component
+Derive min offset du capteur,Derive min of the sensor
+Run Time,Run time
+IMA non appris,IMA not learned
+Pilotage injecteur,Injector management
+Derive max offset du capteur,MAX Offset derive of the sensor
+Derive min du capteur,Derive min of the sensor
+Incoherence vitesse,Incoming Speed
+Derive max du capteur,MAX derive of the sensor
+Ouverture relais principal trop tard,Main relay opening too late
+Trame CAN absente,CAN TRUMS Absent
+Pression insuffisante grave,Serious insufficient pressure
+Commande de pompe importante,Important pump control
+Trame CAN en bus off,CAN frame by bus off
+Commande de pompe importante au ralenti,Important pump control
+EEPROM,Eeprom
+Watchdog,Watchdog
+Output Temporary Control List,Output Temporary Control List
+Relais 2 thermoplongeurs,Immersion heaters relay 2
+Relais 3 thermoplongeurs,Immersion heaters relay 3
+Electrovanne suralimentation,Boost solenoid valve
+Relais pompe basse pression,Low pressure pump relay
+Electrovanne P Rail / MPROP,P Rail / MPROP solenoid valve
+Swirl,Swirl
+Volet admission / Volet EGR,Intake flap / EGR flap
+Relais GMV 1,GMV 1 relay
+Relais GMV 2,GMV 2 relay
+Relais 1 thermoplongeurs,Immersion heaters relay 1
+By Pass EGR,By Pass EGR
+Etat coupure EGR,EGR Cutting State
+Etat diag volet EGR (CE),EGR (CE)
+Offset turbo,Turbo offset
+FMTC rendement courant (CE),FMTC Current efficiency (CE)
+Temps moteur en marche,Steer engine time
+APC,APC
+Pression sural.,Sural pressure.
+IDUCE,Iduce
+Compteur offset turbo Ok (EEPROM),Offset Turbo OK OK (Eeprom)
+FLGCLIM2,FLGCLIM2
+FLGCLIM3,FLGCLIM3
+FLGCLIM1,FLGCLIM1
+Tension capteur pression rail,Rail pressure sensor voltage
+Etat voyant MIL,State seeing millet
+Consigne de PAVT,Pavt instructions
+Kilometrage parcouru depuis changement FAP,Miletage traveled since FAP Change
+Conditions coupures thermonplongeurs (CE),Immersion heaters clipping conditions (CE)
+Porteur des contacts RV,RV contacts
+Etat trame ABS (CE),State TRAME ABS (CE)
+Ecriture Offset turbo FAP propre (EEPROM),Offset Turbo FAP Clean (EEPROM)
+Demande de couple ESP invalide,Request for a invalid esp couple
+Commande Injecteur 1,Injector 1 command
+Commande Injecteur 2,Injector 2 command
+Commande Injecteur 3,Injector 3 command
+Commande Injecteur 4,Injector 4 command
+Commande Injecteur 5,Injector 5 command
+Commande Injecteur 6,Injector command 6
+"Sonde UEGO, Courant de pompage","UEGO probe, pumping current"
+"Sonde UEGO, Masse virtuelle","UEGO probe, virtual mass"
+"Sonde UEGO, SRC mesure taux d'O2","UEGO probe, SRC measures O2 rate"
+Sonde UEGO (Dfp_LSUCDO2Clb0),UEGO probe (DFP_LSUCDO2CLB0)
+Sonde UEGO (Dfp_LSUCDSPI0),UEGO probe (DFP_LSUCDSPI0)
+Sonde UEGO (Dfp_LSUCDWireIP0),UEGO probe (DFP_LSUCDWIREIP0)
+Sonde UEGO (Dfp_LSUCtlRiExc0),UEGO probe (DFP_LSUCTLRIEXC0)
+Diagnostic Master / Slave,Master / Slave diagnosis
+Signal Terminal 15,Terminal signal 15
+Capteur de position volet d'admission d'air,Air intake shutter position
+Erreur sur volet d'air et vanne EGR,Error on air and EGR valve
+Information Airbag Crash,Airbag Crash information
+Erreur ZFC Cylindre 2,ZFC Cylinder 2 error
+Erreur ZFC Cylindre 4,ZFC cylinder 4 error
+"Sonde UEGO, Cellule de Nernst","UEGO probe, Nernst cell"
+Commande turbo 2,Turbo 2 command
+Commande vanne EGR,EGR valve command
+"Sonde UEGO 2, Cellule de Nernst","UEGO 2 probe, NERNST cell"
+"Sonde UEGO 2, Courant de pompage","UEGO 2 probe, pumping current"
+"Sonde UEGO 2, Masse Virtuelle","UEGO 2 probe, virtual mass"
+Contacteur Embrayage,Clutch switch
+Commande Turbo,Turbo command
+Sonde UEGO 2 (Dfp_LSUCDWireIP1),UEGO 2 probe (DFP_LSUCDWIREIP1)
+Capteur pression suralimentation,Surraling pressure sensor
+"Sonde UEGO, Chauffage","UEGO probe, heating"
+Volet d'admission d'air,Air intake
+Tension d'alimentation 1 capteurs,Power voltage 1 sensors
+Commande relais 2 thermoplongeurs,Relay control 2 immersion heaters
+Commande sortie compresseur climatisation,Air conditioning compressor output command
+Commande voyant MIL,Command indicating millet
+Tension d'alimentation 2 capteurs,Power voltage 2 sensors
+Commande volet Swirl,Swirl shutter command
+Sonde UEGO (Dfp_LSUMon1Sens),UEGO probe (DFP_LSUMON1SENS)
+Sonde UEGO (Dfp_LSUMon2Sens),UEGO probe (dfp_lsumon2sens)
+Capteur pression diff FAP,Diff FAP pressure sensor
+Sonde UEGO (Dfp_LSUMonWireIP0),UEGO probe (dfp_lsumonwireip0)
+Trame ECM en mute,Mute ECM frame
+Actuateur de pression carburant (DRV),Fuel pressure actuator (DRV)
+Commande GMV 2,GMV 2 command
+Relais principal,Main relay
+Capteur de position vanne EGR,EGR valve position sensor
+Position vanne EGR,EGR valve position
+Tension d'alimentation 3 capteurs,Power voltage 3 sensors
+Erreur ZFC Cylindre 1,ZFC cylinder 1 error
+Erreur ZFC Cylindre 3,ZFC Cylinder 3 error
+Capteur pression avant turbine,Turbine front pressure sensor
+Erreur ZFC Cylindre 6,Error ZFC Cylinder 6
+Calculateur,Calculator
+Sonde UEGO (Dfp_LSUCtlRiExc1),UEGO probe (DFP_LSUCTLRIEXC1)
+Commande GMV 1,GMV 1 command
+Erreur ZFC Cylindre 5,ZFC Cylinder 5 error
+"Sonde UEGO 2, Chauffage","UEGO 2 probe, heating"
+"Sonde UEGO 2, SRC mesure taux d'O2","UEGO 2 probe, SRC measures O2 rate"
+Trame VLI absente,TRUMS TRUS
+Capteur pression climatisation,Air conditioning pressure sensor
+Sonde UEGO 2 (Dfp_LSUCDSPI1),UEGO 2 probe (DFP_LSUCDSPI1)
+Signal volant moteur,Engine steering wheel signal
+Trame ACC absente,TRAME ACA absent
+Trame UCH absente,UCH frame absent
+Trame CLIM absente,IMPLICE ARRIMBER
+Trame BVA absente,Absent BVA frame
+Capteur temperature aval FAP,FAP downstream temperature sensor
+Capteur pression amont FAP,FAP upstream pressure sensor
+Trame Tableau de bord absente,Dashboard frame absent
+Verrou logiciel,Software lock
+Communication UPC,UPC communication
+Contacteur Frein,Brake switch
+Signal volant moteur 2,Signal flywheel 2
+Commande relais 1 thermoplongeurs,Relay control 1 immersion heaters
+Sonde UEGO 2 (Dfp_LSUCDO2Clb1),UEGO 2 probe (DFP_LSUCDO2CLB1)
+Trame UPC absente,Absent UPC frame
+Capteur pression rail,Rail pressure sensor
+Commande relais 3 thermoplongeurs,Relay control 3 immersion heaters
+Estimation masse suie FAP invalide,Mass estimate SUIE FAP Invalid
+Commande pompe basse pression,Low pressure pump command
+Trame ABS absente,Absent ABS frame
+Consommation carburant depuis additivation,Fuel consumption since additivation
+FLGVSC4,FLGVSC4
+FLGVSC5,FLGVSC5
+FLGVSC2,FLGVSC2
+FLGVSC3,FLGVSC3
+FLGVSC1,FLGVSC1
+Etat diag volet EGR,EGR flap diagnon
+Code verlog appris,Verlog code learned
+Pression suralimentation (CE),Surraling pressure (CE)
+Status EGT,Status EGT
+Etat regulateur air,Air Regulator State
+Correction de position vanne EGR,EGR valve position correction
+ResetMode,Resetmode
+tous les apprentissages,All learning
+Synchro,Synchro
+Statut erreur tension ref 2,Standard Standard Standard Ref 2
+Statut erreur tension ref 3,Standard Standard Standard Ref 3
+Statut erreur tension ref 3 (CE),Standard Standard REF 3 status (CE)
+Coupure CLIM,Air conditioning
+Commande volet d'admission (EGR),Admission shutter command (EGR)
+Data injecteur 3,Data injector 3
+FF_Environnement 8,Ff_environnement 8
+FF_Environnement 3,Ff_environnement 3
+FF_Environnement 2,Ff_environnement 2
+FF_Environnement 1,Ff_environnement 1
+FF_Environnement 7,Ff_environnement 7
+FF_Environnement 6,Ff_environnement 6
+FF_Environnement 5,Ff_environnement 5
+FF_Environnement 4,Ff_environnement 4
+Couple Moteur effectif Min,MUN EXPERTIVE MOTOR
+Etat compresseur AC (CE),AC Compressor State (CE)
+Etat trame TDB (CE),TDB (CE) state state
+RCO Vanne EGR,RCO EGR valve
+Etat thermoplongeur 2 (CE),State immersion heater 2 (CE)
+Etat diagnostic CAN (CE),CAN Diagnostic State (CE)
+Inhibition consomateurs electriques,Electric consumer inhibition
+Tension capteur pression diff FAP (CE),Truction sensor diff FAP (CE)
+Correction de position Swirl,Swirl position correction
+GroupOfdiagnosticInformation,Groupofdiagnosticinformation
+Working sphere turbo,Working Sphere Turbo
+Charge alternateur CAN (CE),Alternator CAN load (CE)
+Information embrayage,Clutch information
+Limitation couple,Couple limitation
+Coupure THP,Thp cut
+Nombre de Key On depuis dernier remplissage correct,Number of Key on since last correct filling
+Temps d'injection MII1,Injection time MII1
+Partie stationnaire vanne EGR,Stationary part of EGR valve
+Courant de commande MPROP (CE),MPROP control current (CE)
+Module ABS,Abs module
+Etat GMV 1,GMV 1 State
+Etat GMV 2,GMV 2 State
+Demande de ralenti THP,Ralentine THP slowdown
+Etat frein (CE),Brake state (CE)
+Etat signal increment TPU (CE),TPU SIGNAL SIGNAL (CE)
+Premier offset Vanne EGR (CE),First offset EGR valve (CE)
+Courant dans la MPROP (CE),Current in MPROP (CE)
+Consigne position vanne EGR (CE),EGR valve position instructions (CE)
+Consigne pression suralimentation,Surraling pressure setpoint
+Ecriture Compteur d'erreur d'admission,Scripture of admission error counter
+Etat erreur increment TPU (CE),State Error Increast TPU (CE)
+Phasage injection PoI2,POI2 injection phasing
+Status DTC global,Status DTC Global
+Compteur d'erreurs du volet d'admission (CE),Error counter of the intake component (CE)
+Erreur sur composant pilotage injecteur (CE),Error on injector piloting component (CE)
+Statut erreur APP1/APP2 (CE),Error status APP1/APP2 (CE)
+Pression carburant (CE),Fuel pressure (CE)
+PFlt default value (MSB),PFLT DEFAULT VALUE (MSB)
+FF_Status,Ff_status
+Message Mux - MSB,MUX message - MSB
+Etat pompe d'additif,Additive pump state
+Output Control Status,Output Control Status
+Running,Running
+Stopped,Stopped
+Manually Stopped,Manually Stopped
+Module CLIM,Air conditioning module
+Couple Moteur effectif,Effective engine torque
+commencer,begin
+demande status,Status request
+Commande GMV1 par CLIM,GMV1 command by air conditioning
+Etat thermoplongeur 1 (CE),Immersion heater state 1 (CE)
+Volet d'admission d'air (EGR),Air intake component (EGR)
+Statut erreur tension ref 2 (CE),Standard Standard REF 2 status (CE)
+Etat de surveillance du volet d'admission (CE),State of surveillance of the admission component (CE)
+Recopie EGR,EGR copy
+Commande GMV1,GMV1 command
+Commande GMV2,GMV2 command
+Module UCH,UCH module
+Ecriture Premier offset Vanne EGR,Writing first offset valve EGR
+Charge piste 1,Charge track 1
+Rapport V/N (CE),V/N report (CE)
+Niveau de puissance THP (CE),Power level THP (CE)
+Tension position relative EGR,Tension Relative position EGR
+Consigne de vitesse RV (CE),RV speed instructions (CE)
+Etat coupure moteur,Engine cutting state
+Couple sortie moteur,Engine output torque
+Status Ecriture IMA,Status Writing IMA
+Ecriture OK,Writing ok
+Ecriture NOK,NOK Writing
+Valeurs invalides,Invalid values
+Etat pompe basse pression,Low pressure pump state
+RCO turbo,RCO Turbo
+RCO volet d'admission (EGR) (CE),RCO Admission shutter (EGR) (CE)
+RCO MPROP,RCO MPROP
+Temps d'injection PoI2,POI2 injection time
+Temps d'injection PoI1,POI1 injection time
+Ecart recopie EGR,EGR copy space
+Tension piste 2,Track tension 2
+Status IMA,Status IMA
+IMA non actif,IMA not active
+"IMA actif, appris","IMA active, learned"
+"IMA actif, pas appris","IMA active, not learned"
+Etat limitation PAVT,PAVT Limitation State
+Porteur des boutons RV,RV buttons
+Requete clignotement vitesse,Speed flashing request
+Pression carburant,Fuel pressure
+Position relative EGR (CE),Relative position EGR (CE)
+Consigne ByPass EGR,Bypass EGR instructions
+PROVSCZ1,Provscz1
+Erreur niveau bas sur banc injecteurs 1 (CE),Low level error on injector bench 1 (CE)
+PROVSCZ3,Provscz3
+PROVSCZ2,Provscz2
+RCO vanne EGR ( CE),RCO EGR valve (CE)
+Tension capteur pression atmo,ATMO pressure sensor voltage
+Offset turbo VNT,Offset Turbo VNT
+Tension capteur position EGR (CE),EGR position sensor voltage (CE)
+Etat GMV1 (CE),GMV1 State (CE)
+RCO Swirl,RCO Swirl
+Tension piste 1,Track tension 1
+Etat moteur (CE),Engine state (CE)
+Premier offset Vanne EGR,First EGR valve offset
+Information frein redondant,Redundant brake information
+porteur des detections de connexion RV-LV et ACC,bearer of the RV-LV and ACC connection detections
+Capteur suralimentation,Suroralimentation sensor
+Volet EGR,EGR section
+Test ddt,DDT test
+Capteur Pression Climatisation,Air conditioning pressure sensor
+Capteur pression FAP,FAP pressure sensor
+Etat GMV2 (CE),GMV2 State (CE)
+Controle coupure en powerlatch,Powerlatch cutout control
+Etat bus CAN,CAN Bus State
+Temps d'injection PiI1,Pii1 injection time
+Consigne ralenti,Slowed down
+Temps d'injection PiI2,Pii2 injection time
+Status de la sortie,Status of the exit
+- rien -,- nothing -
+Pilotage en cours,Current management
+Tension capteur pression amont FAP (CE),Prolonger voltage Pressure Upstream Fap (CE)
+Clim vue,Air conditioning
+Requete de limitation PAVT,Pavt limitation request
+Output Control Command,Output Control Command
+Start Temporary,Start Temporary
+Status,Status
+Stop,Stop
+Coupure CTP,CTP cut
+Conditions de coupures compresseur climatisation (CE),Air conditioning compressor cutting conditions (CE)
+Etat conversion couple boite,Box couple conversion state
+Consigne de pression rail,Rail pressure setpoint
+Inhibition carburant,Fuel inhibition
+Inhibition consommateurs electriques,Electric consumers inhibition
+Test Statique,Static test
+Appoint d'huile automatique,Automatic oil
+Phasage injection MI1,Mi1 injection phasing
+Etat VSC,VSC State
+RCO electrovanne sural. (CE),RCO Electrovanne sural.(THIS)
+Etat moteur,Engine
+Statut frein par CAN (CE),Brake status by can (CE)
+Code appris (CE),Code learned (CE)
+Conditions coupures turbo,Turbo cutting conditions
+Code DTC,DTC code
+Pression amont FAP (CE),Upstream pressure fap (CE)
+Ancien niveau de carburant,Old fuel level
+Conditions de coupures externes moteur (CE),Conditions of external engine (CE)
+Commande GMV par la boite,GMV command by the box
+Consigne de vitesse LV (CE),LV speed instructions (CE)
+Tension capteur PAVT,Pavt sensor voltage
+PFlt default value (LSB),PFLT DEFAULT VALUE (LSB)
+Etat sortie climatisation,Air conditioning state
+Statut erreur tension ref 1 (CE),Standard Standard Strift Ref 1 (CE)
+Type valeur,Value type
+Phasage injection PiI2,Pii2 injection phasing
+Phasage injection PiI1,PII1 injection phasing
+Ecart pression turbo,Turbo pressure gap
+Rapport V/N,V/N report
+Condition coupures injecteurs en CO (CE),Injector cutting condition in CO (CE)
+Ecart pression carburant,Fuel pressure gap
+Pression rail actuelle,Current rail pressure
+Nombre de cycle,Number of cycle
+Erreur niveau bas sur banc injecteurs 2 (CE),Low level error on injector bench 2 (CE)
+PAVT,Pavt
+Couple branche overrun,Overrun branch couple
+Dernier Offset Vanne EGR,Last EGR valve offset
+Way of drive,Way of Drive
+Commande,Ordered
+Commencer pilotage,Start steering
+SHUTOFFMEM,Shutoffmem
+Puissance max CTP (trame CLIM),MAX CTP power (frame clim)
+Consigne de pression rail (CE),Rail pressure setpoint (CE)
+Tension batterie (CE),Battery voltage (CE)
+Consigne de courant de la MPROP,MPROP current instructions
+Courant alternateur,Alternator
+Test statique,Static test
+Masse de suie dans le FAP (CE),Mass of soot in the FAP (CE)
+Commande voie positive vanne EGR,EGR Vanne Positive Vanne Control
+Couple Interne (CE),Internal couple (CE)
+Tension capteur niveau reservoir Ce,Sensor tension Level reservoir this
+Etat sortie compresseur clim,Air conditioner
+Etat turbo,Turbo
+Commande electro vanne turbo,Electro Turbo valve command
+Commande volet swirl (CE),Swirl shutter command (CE)
+Commande voie positive vanne EGR (CE),EGR Vanne positive command (CE)
+Mode Limp Home,Limp home
+Etat affichage RV,RV display state
+Etat RV/LV (CE),RV/LV State (CE)
+manufacturer session,Manufacturer Session
+development session,Development Session
+assembly line testing session,Assembly Line Testing Session
+after-sales session,after-sales session
+Correction injecteur 4,Injector 4 correction 4
+Correction injecteur 3,Injector 3 correction 3
+Correction injecteur 2,Injector 2 correction 2
+Correction injecteur 1,Injector 1 correction 1
+FF - 1687,FF - 1687
+FF - 5646,FF - 5646
+FF - 5645,FF - 5645
+FF - 5644,FF - 5644
+FF - 5643,FF - 5643
+FF - 1538,FF - 1538
+FF - 5641,FF - 5641
+FF - 5640,FF - 5640
+FF - test,FF - Test
+FF - 1536,FF - 1536
+FF - 5649,FF - 5649
+FF - 5648,FF - 5648
+FF - 272,FF - 272
+FF - 5642,FF - 5642
+FF - 277,FF - 277
+FF - 1605,FF - 1605
+FF - 1601,FF - 1601
+Status sorties,Status outputs
+Trame DB - (Engine Control),DB frame - (Engine Control)
+FF - 1033,FF - 1033
+Trame Fonction RVLV,RVLV function
+FF - 5248,FF - 5248
+FF - 1136,FF - 1136
+FF - 5678,FF - 5678
+FF - 49474,FF - 49474
+Trame Fonction VSC,TRAME FUNCTION VSC
+FF - 49473,FF - 49473
+FF - 49472,FF - 49472
+FF - 2066,FF - 2066
+FF - 49267,FF - 49267
+FF - 1328,FF - 1328
+FF - 1280,FF - 1280
+FF - 517,FF - 517
+FF - 832,FF - 832
+FF - 261,FF - 261
+FF - 53507,FF - 53507
+FF - 1616,FF - 1616
+FF - 1617,FF - 1617
+FF - 5651,FF - 5651
+FF - 53508,FF - 53508
+FF - 53509,FF - 53509
+FF - 579,FF - 579
+Output Control,Output Control
+FF - 49441,FF - 49441
+FF - 49442,FF - 49442
+FF - 5655,FF - 5655
+FF - 9474,FF - 9474
+Ecriture Trame CM : reinit offsets vanne EGR,Writing frame cm: reinit offset EGR valve
+FF - 8194,FF - 8194
+Pilotage sorties,Piloting outings
+FF - 5657,FF - 5657
+FF - 5668,FF - 5668
+FF - 821,FF - 821
+FF - 5671,FF - 5671
+FF - 5647,FF - 5647
+FF - 518,FF - 518
+Lecture Freeze Frame,Reading Freeze Frame
+FF - 516,FF - 516
+FF - 515,FF - 515
+FF - 514,FF - 514
+FF - 1669,FF - 1669
+Trame A6,A6 frame
+FF - 5658,FF - 5658
+FF - 5659,FF - 5659
+FF - 49511,FF - 49511
+FF - 5650,FF - 5650
+FF - 112,FF - 112
+FF - 5652,FF - 5652
+FF - 5653,FF - 5653
+FF - 5654,FF - 5654
+FF - 1542,FF - 1542
+FF - 5656,FF - 5656
+FF - 49409,FF - 49409
+Trame A0,A0 frame
+Trame A1 - (Tension et capteurs),A1 frame - (voltage and sensors)
+Trame A2,A2 frame
+Trame A3,A3 frame
+Trame A4,A4 frame
+Trame A5,Frame A5
+FF - 1348,FF - 1348
+Trame A7,Frame A7
+Trame A8,A8 frame
+FF - 9497,FF - 9497
+Trame identification,Identification frame
+FF - 896,FF - 896
+FF - 897,FF - 897
+FF - 5232,FF - 5232
+FF - 5233,FF - 5233
+FF - 5237,FF - 5237
+Trame Fonction CLIM,Frame Facim Function
+FF - 901,FF - 901
+FF - 1648,FF - 1648
+FF - 1376,FF - 1376
+FF - 5683,FF - 5683
+FF - 5682,FF - 5682
+FF - 5681,FF - 5681
+FF - 5680,FF - 5680
+FF - 5686,FF - 5686
+FF - 5685,FF - 5685
+FF - 5684,FF - 5684
+FF - 1571,FF - 1571
+FF - 8553,FF - 8553
+FF - 2096,FF - 2096
+FF - 5638,FF - 5638
+FF - 8804,FF - 8804
+ECUR Reset,Reset ecur
+FF - 768,FF - 768
+FF - 769,FF - 769
+FF - 5669,FF - 5669
+FF - 137,FF - 137
+FF - 5639,FF - 5639
+FF - 5636,FF - 5636
+FF - 5637,FF - 5637
+FF - 53505,FF - 53505
+FF - 5635,FF - 5635
+FF - 5633,FF - 5633
+Trame C7,C7 frame
+FF - 5698,FF - 5698
+FF - 5699,FF - 5699
+FF - 5697,FF - 5697
+Trame BD : FTDIV,BD frame: ftdiv
+FF - 5667,FF - 5667
+FF - 384,FF - 384
+FF - 1569,FF - 1569
+FF - 774,FF - 774
+FF - 773,FF - 773
+FF - 772,FF - 772
+FF - 771,FF - 771
+FF - 770,FF - 770
+FF - 549,FF - 549
+Clear Diagnostic Information,Clear Diagnostic Information
+FF - 49408,FF - 49408
+Ecriture Trame CM : reinit volet d'admission,Scripture CM: Reinit intake flap
+FF - 8480,FF - 8480
+Trame diag mux,MUX diag
+FF - 5661,FF - 5661
+FF - 5660,FF - 5660
+FF - 5665,FF - 5665
+FF - 5664,FF - 5664
+FF - 869,FF - 869
+FF - 5666,FF - 5666
+FF - 5171,FF - 5171
+FF - 5170,FF - 5170
+FF - 5173,FF - 5173
+FF - 22,FF - 22
+FF - 5174,FF - 5174
+FF - 1557,FF - 1557
+FF - 1153,FF - 1153
+FF - 1159,FF - 1159
+FF - 1158,FF - 1158
+FF - 1553,FF - 1553
+FF - 1592,FF - 1592
+FF - 49493,FF - 49493
+FF - 1152,FF - 1152
+FF - 256,FF - 256
+FF - 550,FF - 550
+FF - 8241,FF - 8241
+Trame DA - (IMA : lecture corrections),IMAG DA - (IMA: Reading Corrections)
+FF - 513,FF - 513
+FF - 1393,FF - 1393
+FF - 1397,FF - 1397
+FF - 8324,FF - 8324
+FF - 8320,FF - 8320
+FF - 5672,FF - 5672
+FF - 5673,FF - 5673
+FF - 5670,FF - 5670
+FF - 5169,FF - 5169
+FF - 5676,FF - 5676
+FF - 5677,FF - 5677
+FF - 5674,FF - 5674
+FF - 5675,FF - 5675
+FF - 51,FF - 51
+FF - 5679,FF - 5679
+SRBLI start routine,Srbli Start Routine
+FF - 405,FF - 405
+FF - 400,FF - 400
+FF - 1632,FF - 1632
+FF - 565,FF - 565
+FF - 560,FF - 560
+FF - 49717,FF - 49717
+FF - 1027,FF - 1027
+FF - default,FF - Default
+FF - 1024,FF - 1024
+FF - 5463,FF - 5463
+Ecriture IMA : correction injecteurs,IMA Scripture: Correction injectors
+FF - 53506,FF - 53506
+Ecrans APV - Usine,APV screens - Factory
+IMA,IMA
+Pilotage des actuateurs,Actuate piloting
+Routines - Usine,Routines - Factory
+RV/LV - trame $BD,RV/LV - Frame $ BD
+Surveillance,Surveillance
+Verlog / Reprog,Verlog / reprog
+Ecrans Flottes,Fleet crops
+ IF05,If05
+Air/EGR/Turbo,Air/EGR/Turbo
+Clim / Chauffage,Air conditioning / heating
+Couple / Moteur,Engine couple
+EEPROM - EGR,EEPROM - EGR
+Tensions capteurs,Tensions sensors
+1=31,1 = 31
+2=32,2 = 32
+3=33,3 = 33
+4=34,4 = 34
+5=35,5 = 35
+6=36,6 = 36
+7=37,7 = 37
+8=38,8 = 38
+A=41,A = 41
+B=42,B = 42
+C=43,C = 43
+Corrections IMA,IMA corrections
+D=44,D = 44
+E=45,E = 45
+Ecriture des corrections IMA,IMA Corrections Writing
+F=46,F = 46
+G=47,G = 47
+H=48,H = 48
+I=49,I = 49
+K=4B,K = 4b
+L=4C,L = 4C
+Lecture des corrections IMA,Reading IMA corrections
+M=4D,M = 4D
+N=4E,N = 4th
+O=4F,O = 4F
+P=50,P = 50
+R=52,R = 52
+S=53,S = 53
+Statut fonction IMA,IMA function status
+T=54,T = 54
+Table de correspondance:,Correspondence table:
+U=55,U = 55
+V=56,V = 56
+W=57,W = 57
+X=58,X = 58
+Y=59,Y = 59
+Z=5A,Z = 5a
+Ecriture des corrections,Correction writing
+Ecu Reset,Ecu reset
+EGR /TVA /Turbo pour IF05,EGR /VAT /Turbo for If05
+Entrees digitales,Digital
+Etats / Sorties / Actuateurs,States / outings / actuators
+Etats logiciels,Software States
+Pilotage et surveillance,Management and surveillance
+Sorties et actuateurs,Outings and actuators
+Envoi Pilotage,Piloting
+Boutons RV/LV,RV/LV buttons
+Infos RV/LV,RV/LV info
+Pannes RV/LV,RV/LV breakdowns
+Air / EGR / Turbo,Air / EGR / Turbo
+Ecran APV,APV screen
+ETATS ACTUATEURS,Actuator States
+PILOTAGE ACTUATEURS,Actuator piloting
+Sauf G9T 642 (J81),Except G9T 642 (J81)
+Divers,Various
+EGR,EGR
+Tensions,Tensions
+TENSIONS DES CAPTEURS,Sensors tensions
+"bouton ""Reinit des compteurs du","""Reset of the counters of"
+d'admission d'air puis appuyer,air intake then press
+"de la vanne EGR""","of the EGR valve """
+Ecriture EEPROM - Trame CM EGR,EEPROM Writing - FRAME CM EGR
+"le bouton ""Reinit des offsets","The ""Reinit of Offsets button"
+Lecture EEPROM - Trame CM EGR,Reading Eeprom - Frame CM EGR
+les valeurs lues des offsets de la,the read values of the offsets of the
+lues des compteurs du volet,shutter meters
+vanne EGR puis appuyer sur le,EGR valve then press the
+"volet d'admission d'air (EGR)""","Air intake component (EGR) """
+Reinit compteurs volet d'admission d'air (EGR),Reset Air intake stretch meters (EGR)
+Reinit des offsets de la vanne EGR,Reinit of offsets of the EGR valve
+Identification du calculateur EDC16,IDC16 calculator identification
+CLIMATISATION et VENTILATION,Air conditioning and ventilation
+ARRET ROUTINE,Routine stop
+INFOS USINES,Factory info
+LANCEMENT ROUTINE,Routine launch
+ARRET,STOP
+LANCEMENT,LAUNCH
+FONCTDIV,FONCTDIV
+PARAM Moteur,Engine param
+numéro source dernière Recovery (CE),Source number Last Recovery (CE)
+Ligne d'état Volet d'admission,State line
+Tension capteur température air ext,Air extreme temperature sensor voltage
+Commande relais pré-postchauffage (CE),Pre-post-chauffage relay command (CE)
+Panne présente,Breakdown
+Débit d'air (CE),Air flow (CE)
+RCO turbo après régul,RCO Turbo after Régul
+Tension capteur pression fréon,Freon pressure sensor tension
+Température air (CE),Air temperature (CE)
+Caractéristique des injections acutelles (CE),Characteristic of acute injections (CE)
+Débit d'air par cylindre,Air flow by cylinder
+Bouton MARCHE / ARRET LV appuyé,LV Strong button on
+Tension capteur température eau (CE),Water temperature sensor voltage (CE)
+état connexion avec producteur ECU n°19,Connection condition with producer ECU n ° 19
+état connexion avec producteur ECU n°12,Connection condition with producer ECU n ° 12
+Compteur appoint d'huile N°11,Oil extra counter n ° 11
+état connexion avec producteur ECU n°10,Connection condition with producer ECU n ° 10
+Compteur appoint d'huile N°13,Oil extra counter n ° 13
+Compteur appoint d'huile N°14,Oil extra counter n ° 14
+Compteur appoint d'huile N°15,Oil extra counter n ° 15
+Compteur appoint d'huile N°16,Oil extra counter n ° 16
+état connexion avec producteur ECU n°15,Connection condition with producer ECU n ° 15
+Vitesse véhicule,Vehicle speed
+Ecriture Masse de suie dans le FàP propre (EEPROM),Writing mass of soot in the clean FàP (Eeprom)
+Température huile,Oil temperature
+Booléen indiquant si panne eeprom vl3,Boolean indicating if breakdown Eeprom VL3
+Information préchauffage,Preheating information
+Couple après CrCtl/lim VMAX,Couple after CRCTL/LIM Vmax
+Ajustement régulation ralenti,Slowed regulation adjustment
+Temperature après FAP (CE),Temperature after Fap (CE)
+Température air,Air temperature
+Offset vanne EGR après apprentissage (CE),Offset EGR valve after learning (CE)
+Ecriture Kilométrage parcouru avec les memes injecteurs,Writing mileage traveled with the same injectors
+Charge utilisée,Load used
+Bouton rependre appuyé,Repending button pressed
+Commande régulateur pression sural. (CE),SUR PRESUCTION regulator control.(THIS)
+Offset turbo avant régénération FAP (EEPROM),Offset Turbo before Régeneration FAP (EEPROM)
+Vitesse de limitation sélectionnée,Selected limitation speed
+Panne mémorisée des commandes au volant,Memorized failure of steering wheel controls
+Panne présente 2 switchs frein,Breakdown has 2 brake switches
+Température carburant (CE),Fuel temperature (CE)
+Temps depuis régénération,Time since regeneration
+Paramètre Bus Off,Bus off setting
+état connexion avec producteur ECU n°2 -ABS-,Connection condition with producer ECU n ° 2 -ABS-
+Débit avant limitation et avec LiGov,Flower before limitation and with Ligov
+RCO vanne EGR à C.C (CE),RCO EGR valve to C.C (CE)
+Porteur 2 des détections de connexion MUX,MUX connection detections 2
+Couple demande conducteur limité,Limited driver's couple
+Tension capteur température air (CE),Air temperature sensor voltage (CE)
+Etat protégé (CE),Protected State (CE)
+Etat régulateur de vitesse,Care regulator
+Information frein redondant filtré (CE),Filtered redundant brake information (CE)
+Désactivation car détection point mort BVM,Deactivation because BVM deadline detection
+Zone turbo fonction régime/débit (CE),Turbo zone Diet/flow function (CE)
+Tension capteur température carburant (CE),Fuel voltage Fuel temperature (CE)
+Commande voie négative vanne EGR (CE),Negotal control command EGR (CE)
+Detection changement état contact stop à ouverture,Detection change state contact stop to opening
+Panne mémorisée des deux contacts freins,Memorized breakdown of the two brake contacts
+Panne mémorisée,Memorized breakdown
+Booléen contact stop à ouverture,Boolean contact stop at opening
+Bouton REPRENDRE appuyé,Tage button
+FF_Kilométrage,Ff_kilometrification
+Pression sural. filtrée (CE),Sural pressure.filtered (CE)
+état connexion avec producteur ECU n°7 -ACC-,Connection condition with producer ECU n ° 7 -Acc-
+Présence Climatisation,Air conditioning presence
+état connexion avec producteur ECU n°23,Connection condition with producer ECU n ° 23
+état connexion avec producteur ECU n°22,Connection condition with producer ECU n ° 22
+état connexion avec producteur ECU n°21,Connection condition with producer ECU n ° 21
+Numéro de pièce PIE,Pie number
+état connexion avec producteur ECU n°24,Connection condition with producer ECU n ° 24
+Etat moteur envoyé sur le CAN (CE),Engine state sent to the CAN (CE)
+Puissance désirée par AC (CE),Power desired by AC (CE)
+Porteur des pannes mémorisées RV,RV's stored breakdowns
+Couple rapide demandé par la boite,Quick couple requested by the box
+Etat démarrage,Starting State
+Ecart débit air,Air flow space
+Détection changement etat position RV,Detection change state position RV
+Numéro de la routine,Routine number
+Quantité injection PiI1,Pii1 injection quantity
+Quantité injection PiI2,Pii2 injection quantity
+Couple après ASR/MSR,Couple after ASR/MSR
+Type de défaut,Defect
+paramètre en butée mini,Mini stop parameter
+paramètre en butée maxi,Maximum stop parameter
+"Incohérence,non plausible","Inconsistency, not plausible"
+anomalie électronique interne,Internal electronic anomaly
+anomalie réseau,network anomaly
+communication perturbée,disturbed communication
+Plausibilité offset EGR 1,Offset EGR 1 plausibility
+Checksum eroné,Checksum Eroné
+Court circuit au + bat sur étage bas,Short circuit at + Bat on a low floor
+Plausibilité offset EGR 2,Offset EGR 2 plausibility
+Court circuit entre étage haut et étage bas,Short circuit between high and low floor
+Plausibilité offset EGR 3,Offset EGR 3 plausibility
+Ouverture relais principal trop tôt,Too early main relay opening
+Défaut commandes conducteur,Driver commands defect
+Valeur de régulation insuffisante,Insufficient regulation value
+Valeur de régulation trop importante,Too much regulation value
+Dépassement pression rail mini,Rail mini rail pressure
+Dépassement pression rail maxi,Maximum rail pressure excess
+Problème injection en laché de pied,Baseded injection problem
+Vanne EGR solénoide,Solenoide EGR valve
+Relais préchauffage,Preheating relay
+Présence Détection d'eau dans Go,Presence of water detection in Go
+Information contact embrayage filtrée (CE),Information Contact Filtered clutch (CE)
+Désactivation car désacouplage moteur-boite de vitesse,Deactivation because Disappection engine-beast of speed
+Température après FàP,Temperature after FàP
+Pré positionement des ailettes turbo,Pre -positioning of turbo fins
+Correction de position électrovanne sural.,SURAL Solenoid valve position.
+Quantité injection PoI2,POI2 injection quantity
+Détection changement etat position LV,Detection change state position LV
+Durée d'additivation,Additivation duration
+Ecart d'air après régul (CE),Air gap after Regul (CE)
+Ecriture Offset turbo avant régénération FAP (EEPROM),Offset Turbo Writing before FAP (EEPROM)
+Détection UCEs connectées (CE),Connected uces detection (CE)
+Diagnostic préchauffage,Preheating diagnosis
+Bouton SUSPENDRE appuyé,Hanging button pressed
+Caractéristique des injections désirées (CE),Characteristic of desired injections (CE)
+Débit d'air estimé,Estimated air flow
+Désactivation car appui sur frein,Deactivation because brake support
+état connexion avec producteur ECU n°20,Connection condition with producer ECU n ° 20
+FF_Fréquence d'apparition,Ff_frequence of appearance
+Désactivation car vitesse véhicule invalide,Deactivation because Invalid vehicle speed
+Désactivation car problème controle moteur,Deactivation because engine control problem
+Masse de suie dans le FàP,Mass of soot in the FàP
+désactivation car détection point mort en BVM,Deactivation because dead detection in BVM
+Detection changement état RV avec sécurisation sur configuration,Detection change state RV with securing on configuration
+Pression sural. désirée (CE),Sural pressure.Désirée (CE)
+Bouton Marche-Arret LV appuyé,LV Sleaks Strong button
+Charge pédale accélérateur (CE),Accelerator pedal load (CE)
+Ecart de régulation de la vanne EGR,EGR valve regulation gap
+"Sonde UEGO, Plausibilité sur la concentration en oxygène","UEGO probe, plausibility on the oxygen concentration"
+Problème software,Software problem
+Défaut IMA,IMA fault
+Signal marche arrière,Reverse signal
+Vanne à courant continu bloquée,Blocked DC valve
+Offset entre arbre à cames et volant moteur,Offset between camshafts and engine steering wheel
+Débit de gaz dans le FAP incohérent,Gas flow in the incoherent FAP
+Pression différentielle FAP trop élevée,FAP differential pressure too high
+Defaut BVA. Erreur boîte,DEFAUT BVA.Box error
+Régulation pression rail (DRV),Rail pressure regulation (DRV)
+Commande voyant surchauffe température d'eau,Surgery controller command water temperature
+Capteur pression atmosphérique,Atmospheric pressure sensor
+Commande voyant système,System lighting command
+Commande voyant système 2,System lighting command 2
+Plausibilité pédales frein / accélérateur (Pédale accélérateur bloquée),Plausibility Brake / accelerator pedals (blocked accelerator pedal)
+Plausibilité température d'eau (Test dynamique),Water temperature plausibility (dynamic test)
+Capteur débimètre d'air 2,Air debter sensor 2
+Circuit vitesse véhicule,Vehicle speed circuit
+"Sonde UEGO 2, Plausibilité sur la concentration en oxygène","UEGO 2 probe, plausibility on the oxygen concentration"
+Filtre à particule colmaté,Colmatted particle filter
+Filtre à particule chargé,Loaded particle filter
+Régénération FAP impossible,Impossible FAP regeneration
+Raté de combustion cyl 1,CYL 1 combustion failure
+Régulateur de pression de sural.,Sural pressure regulator.
+Capteur Débitmètre d'air,Air flow meter sensor
+"Sonde UEGO, Plausibilité résistance de chauffage","UEGO probe, plausibility heating resistance"
+Raté de combustion cyl 2,CYL 2 combustion failure
+Capteur détection d'eau dans le gasoil,Water detection sensor in diesel
+Pression différentielle FAP récalculée invalide,Differential FAP Recalculated Invalid
+Contre pression à l'échappement hors échelle,Against exhaust pressure out -of -scale
+Raté de combustion cyl 3,CYL 3 combustion failure
+Température amont recalculée invalide,Upstream temperature recalculated invalid
+Température aval recalculée invalide,Disable recalculated downstream temperature
+Actuateur de débit carburant (MPROP),Fuel flow actuator (MPROP)
+Capteur température d'eau,Water temperature sensor
+Signal pression différentielle,Differential pressure signal
+Défaut CAN BVA. Perte du signal,CAN BVA fault.Signal loss
+Défaut Réseau CAN,CAN network defect
+Régulateur d'air vanne EGR,EGR valve air regulator
+Dépassement du nombre de régénérations FAP erronées,Overcoming the number of erroneous FAP regenerations
+Piste 1 potentiomètre pédale,Track 1 pedal potentiometer
+Raté de combustion dans plusieurs cylindres,Combustion failure in several cylinders
+Défaut CAN BVA. Demande de ralenti accéléré,CAN BVA fault.Accelerated idle request
+Défaut CAN BVA. (Dfp_FrmMngGearShft),CAN BVA fault.(Dfp_frmmnggearshft)
+Raté de combustion cyl 4,CYL 4 combustion failure
+Raté de combustion cyl 5,CYL 5 combustion failure
+Raté de combustion cyl 6,CYL 6 combustion failure
+Voyant préchauffage,Preheating indicator
+Capteur température d'air,Air temperature sensor
+Capteur température carburant,Fuel temperature sensor
+Défaut CAN Climatisation,CAN CAN Air conditioning
+Piste 2 potentiomètre pédale,Track 2 pedal potentiometer
+Défaut CAN ESP,CAN ESP
+Capteur température amont FAP,Upstream FAP temperature sensor
+Capteur température d'air extérieure,Outdoor air temperature sensor
+Régenération permanente,Permanent regeneration
+"Sonde UEGO 2, Plausibilité résistance de chauffage","UEGO 2 probe, plausibility heating resistance"
+Filtre à particule percé,Pierced particle filter
+Ecart de régulation balance turbo,Balance Turbo regulation gap
+Nombre d'injections demandées impossible pour le point de fonctionnement,Number of injections requested impossible for the operating point
+Défaut CAN. (Dfp_FrmMngnMin),CAN default.(Dfp_frmmngnmin)
+Défaut BVA. Erreur de demande d'arrêt moteur par la boîte,BVA defect.Engine stop request by the box
+Défaut CAN charge alternateur,CAN Fault Alternator
+Bougies préchauffage,Preheating candles
+Signal arbre à cames 2,Cam tree signal 2
+Régulateur de vitesse,Speed regulator
+Signal arbre à cames,Camshaft
+Capteur température d'huile,Oil temperature sensor
+Piquage amont défectueux,Defective upstream stitching
+Débit poste à poste 4,Post debit 4
+Débit poste à poste 3,Post debit 3
+Débit poste à poste 2,Post debit 2
+Débit poste à poste 1,Post debit 1
+Detection de trame ACC avec sécurisation sur configuration,ACC frame detection with securing on configuration
+Régime mini demandé par THP (CE),Mini diet requested by THP (CE)
+état connexion avec producteur ECU n°18,Connection condition with producer ECU n ° 18
+Rapport engagé (CE),Committed report (CE)
+Type de régulation turbo (CE),Turbo regulation type (CE)
+Automate de préchauffage (CE),Preheating PLC (CE)
+Débit air par cylindre (CE),Air flow by cylinder (CE)
+régulation ralenti,slowdown
+Ecriture Masse de suie dans le FàP avant régénération (EEPROM),Writing mass of soot in the FàP before regeneration (EEPROM)
+Limitation injection sur défaut,Limitation injection on defect
+Désactivation car vitesse véhicule non rafraichie,Deactivation because vehicle speed not refreshed
+Détection changement état contact stop ferm.,Detection change state contact Stop FERM.
+Désactivation car ratio vitesse consigne -vitesse véhicule incohérent,Deactivation because ratio speed setpoint -incoherent vehicle speed
+Compteur appoint d'huile N°12,Oil extra counter n ° 12
+Kilométrage,Mileage
+état connexion avec producteur ECU n°16,Connection condition with producer ECU n ° 16
+état connexion avec producteur ECU n°17,Connection condition with producer ECU n ° 17
+état connexion avec producteur ECU n°14,Connection condition with producer ECU n ° 14
+Température eau,Water temperature
+Compteur appoint d'huile N°17,Oil extra counter n ° 17
+Consigne de débit d'air (CE),Air flow setpoint (CE)
+Switch régulation turbo (CE),Switch regulation turbo (CE)
+Calculateur verouillé (CE),Calculator Verouillé (CE)
+Numéro de version soft,Soft version number
+Température eau (CE),Water temperature (CE)
+Débit poste à poste,Post debit
+état connexion avec producteur ECU n°1 -INJ-,Connection condition with producer ECU n ° 1 -inj-
+Etat switch régulateur air EGR (CE),Air EGR (CE) switch regulator
+Detection changement état LV avec sécurisation sur configuration,Detection change state LV with securing on configuration
+Detection changement état sur contact embrayage,Detection change state on clutch contact
+état connexion avec producteur ECU n°5,Connection condition with producer ECU n ° 5
+état connexion avec producteur ECU n°6,Connection condition with producer ECU n ° 6
+Etat voyant pré-post chauffage,Statement pre-post heating
+paramètre routine à arrêter,Routine parameter to be stopped
+arrêt de la routine,routine stop
+Tension capteur débit air (CE),Air flow sensor voltage (CE)
+Airbag crash détecté,Airbag crash detected
+Pression atmosphérique,Atmospheric pressure
+Différence entre température FAP estimée et mesurée (CE),Difference between estimated and measured FAP temperature (CE)
+Estimation pression aval Fàp,FàP downstream pressure estimate
+Commande voie négative vanne EGR,EGR Vanne Negative Way Command
+Etat protégé,Protected state
+Ecart régulateur pression rail (CE),Rail pressure regulator (CE)
+Position pédale non filtrée (CE),Uncntered pedal position (CE)
+Ecriture Masse de suie dans le FàP (2 octets),Writing mass of soot in the FàP (2 bytes)
+Débit ligne échappement,Exhaust line flow
+Couple conducteur désiré (CE),Desired driver's torque (CE)
+Détection changement état contact embrayage,Detection change state contact clutch
+Désactivation car appui bouton suspendre,Deactivation because support button hang
+panne présente - circuit ouvert (21h),breakdown - open circuit (9 p.m.)
+panne présente - court circuit masse (22h),breakdown - short mass circuit (10 p.m.)
+panne présente - court circuit au plus batterie (23h),breakdown - short circuit at most battery (11 p.m.)
+panne présente - paramètre en butée mini (24h),Panne present - MINI stop parameter (24 hours)
+panne présente - paramètre en butée maxi (25h),Panne present - Maxi stop parameter (25h)
+"panne présente - Incohérence,non plausible (26h)","breakdown - inconsistency, not plausible (26h)"
+panne présente - Absence de signal (27h),breakdown - absence of signal (27h)
+panne présente - en dessous du seuil min (28h),breakdown - below the minute threshold (28h)
+panne présente - au dessus du seuil max (29h),breakdown - above the Max threshold (29h)
+panne présente - niveau bas permanent (2Ah),Permanent low level failure (2Ah)
+panne présente - niveau haut permanent (2Bh),Permanent high level breakdown (2bh)
+panne présente - lignes en court circuit (2Ch),breakdown in short circuit lines (2ch)
+panne présente - anomalie électronique interne (2Dh),breakdown - Internal electronic anomaly (2DH)
+panne présente - anomalie réseau (2Eh),breakdown - network anomaly (2nd)
+panne présente - diagnostic (2Fh),breakdown - diagnosis (2FH)
+panne présente - communication perturbée (30h),Power Power - Disturbed communication (30h)
+panne présente - microcoupures (31h),breakdown - microcoupures (31h)
+panne présente - tension anormale (32h),failure present - abnormal voltage (32h)
+panne présente - valeur hors gamme (33h),Panne present - Value excluding range (33h)
+panne présente - circuit ouvert ou court circuit masse (34h),breakdown present - open or short circuit circuit (34 hours)
+panne présente - circuit ouvert ou court circuit au plus batterie (35h),breakdown present - open or short circuit circuit at most battery (35 hours)
+panne présente - initalisation / configuration invalide (36h),breakdown - Initialization / Invalid configuration (36h)
+panne mémorisée - circuit ouvert (41h),Disable failure - Open circuit (41h)
+panne mémorisée - court circuit masse (42h),Disable failure - short mass circuit (42 hours)
+panne mémorisée - court circuit au plus batterie (43h),Disable failure - Short circuit at most battery (43 hours)
+panne mémorisée - paramètre en butée mini (44h),Save failure - MINI stop parameter (44h)
+panne mémorisée - paramètre en butée maxi (45h),Save failure - Maxi stop parameter (45h)
+"panne mémorisée - Incohérence, non plausible (46h)","Disable failure - inconsistency, non -plausible (46h)"
+panne mémorisée - signal absent (47h),Disable failure - Absent signal (47h)
+panne mémorisée - en dessous du seuil min (48h),Disable failure - below the Min threshold (48h)
+panne mémorisée - au dessus du seuil max (49h),Disable failure - above the Max threshold (49h)
+panne mémorisée - niveau bas permanent (4Ah),Straight failure - Permanent low level (4Ah)
+panne mémorisée - niveau haut permanent (4Bh),Straight breakdown - High permanent level (4bh)
+panne mémorisée - lignes en court circuit (4Ch),Straight failure - Short circuit lines (4ch)
+panne mémorisée - anomalie électronique interne (4Dh),Disable failure - Internal electronic anomaly (4DH)
+panne mémorisée - anomalie réseau (4Eh),Straight failure - Network anomaly (4th)
+panne mémorisée - diagnostic (4Fh),Disabled breakdown - Diagnosis (4FH)
+panne mémorisée - communication perturbée (50h),Disrupted breakdown - disturbed communication (50h)
+panne mémorisée - microcoupures (51h),Disable failure - microcoupures (51h)
+panne mémorisée - tension anormale (52h),Disable failure - abnormal voltage (52h)
+panne mémorisée - valeur hors gamme (53h),Standed failure - Outstanding value (53h)
+panne mémorisée - circuit ouvert ou court circuit masse (54h),Disable failure - open or short circuit circuit (54 hours)
+panne mémorisée - circuit ouvert ou court circuit au plus batterie (55h),Disable failure - open or short circuit circuit at most battery (55h)
+panne mémorisée - initalisation / configuration invalide (56h),Save failure - Initialization / Invalid configuration (56h)
+panne présente et mémorisée - circuit ouvert (61h),Presentation present and memorized - open circuit (61h)
+panne présente et mémorisée - court circuit masse (62h),Presentation present and memorized - short mass circuit (62h)
+panne présente et mémorisée - court circuit au plus batterie (63h),Presentation present and memorized - short circuit at most battery (63h)
+panne présente et mémorisée - paramètre en butée min (64h),Presentation present and memorized - MIN stop parameter (64h)
+panne présente et mémorisée - paramètre en butée max (65h),Presentation present and memorized - Max stop parameter (65h)
+panne présente et mémorisée - signal incohérent (66h),Presentation present and memorized - incoherent signal (66h)
+panne présente et mémorisée - signal absent (67h),Power present and memorized - absent signal (67h)
+panne présente et mémorisée - seuil min (68h),Presentation present and memorized - threshold min (68h)
+panne présente et mémorisée - seuil max (69h),Presentation present and memorized - Max threshold (69h)
+panne présente et mémorisée - lignes en CC (6Ch),Presentation present and memorized - CC lines (6ch)
+panne présente et mémorisée - anomalie électronique interne (6Dh),Presentation present and memorized - Internal electronic anomaly (6DH)
+panne présente et mémorisée - anomalie réseau (6Eh),Presentation present and memorized - network anomaly (6th)
+panne présente et mémorisée - diagnostic (6Fh),Presentation present and memorized - Diagnostic (6FH)
+panne présente et mémorisée - communication perturbée (70h),Power present and memorized - disturbed communication (70h)
+panne présente et mémorisée - microcoupures (71h),Presentation present and memorized - microcoupures (71h)
+panne présente et mémorisée - tension anormale (72h),Presentation present and memorized - abnormal voltage (72h)
+panne présente et mémorisée - valeur hors gamme (73h),Presentation present and memorized - Value excluding range (73h)
+panne présente et mémorisée - circuit ouvert ou court circuit masse (74h),Presentation present and memorized - open or short circuit circuit (74 hours)
+panne présente et mémorisée - circuit ouvert ou court circuit au plus batterie (75h),Presentation present and memorized - open or short circuit circuit at most battery (75h)
+panne présente et mémorisée - initalisation / configuration invalide (76h),Presentation present and memorized - Initialization / Invalid configuration (76h)
+Panne présente - Signal CAN absent ou non valide (A0h),Breakdown - Signal can absent or not valid (a0h)
+Panne présente - Incoherence vitesse (A1h),Breakdown - speed incoherence (a1h)
+Panne présente - Bloqué(e) ouvert(e) (A2h),Open blocked breakdown (e) (a2h)
+Panne présente - Bloqué(e) fermé(e) (A3h),Panne present - closed blocked (e) (a3h)
+Panne présente - Derive min offset du capteur (A4h),Panne present - Derive min offset from the sensor (A4H)
+Panne présente - Derive max offset du capteur (A5h),Panne present - Derive Max Offset of the sensor (A5H)
+Panne présente - Derive min du capteur (A6h),Presentation present - Derive min of the sensor (A6H)
+Panne présente - Derive max du capteur (A7h),Panne present - Derive Max of the sensor (A7H)
+Panne présente - Court circuit au + bat sur étage bas (A8h),Panne present - Short circuit at + Bat on low floor (A8H)
+Panne présente - Court circuit entre étage haut et étage bas (A9h),Breakdown - short circuit between high and low floor (A9H)
+Panne présente - Ouverture relais principal trop tôt (AAh),Panne present - Opening Main relay too early (AAH)
+Panne présente - Ouverture relais principal trop tard (ABh),Breakdown present - main relay opening too late (ABH)
+Panne présente - Défaut commandes conducteur (ACh),Power failure - Driver commands defect (ACH)
+Panne présente - Ecart de boucle négatif (ADh),Presentation present - Negative loop gap (ADH)
+Panne présente - Ecart de boucle positif (AEh),Power Power - Positive loop apart (AEH)
+Panne présente - Pression insuffisante grave (AFh),Breakdown - severe insufficient pressure (AFH)
+Panne présente - Commande de pompe importante (B0h),Power failure - Important pump command (B0H)
+Panne présente - Commande de pompe importante au ralenti (B1h),Panne presents - Important pump command (B1H)
+Panne présente - Dépassement pression rail mini (B2h),Panne presents - Excess pressure mini rail (B2H)
+Panne présente - Dépassement pression rail maxi (B3h),Panne present - Excess pressure maximum rail (B3H)
+Panne présente - EEPROM (B4h),Breakdown - EEPROM (B4H)
+Panne présente - Watchdog (B5h),Breakdown - Watchdog (B5H)
+Panne présente - Pilotage injecteur (B6h),Paths present - Injector piloting (B6H)
+Panne présente - Convertisseur A-N (B7h),Presentation present - A -N converter (B7H)
+Panne présente - Composant de pilotage injecteurs (B8h),Power failure - Injector piloting component (B8H)
+Panne présente - Problème injection en laché de pied (B9h),Panne presents - problem injection inject (B9H)
+Panne présente - Run Time (BAh),Breakdown - run time (bah)
+Panne présente - Plausibilité offset EGR 1 (BBh),Panne present - Offset EGR 1 plausibility (BBH)
+Panne présente - Checksum eroné (BCh),Panne present - Checksum Eroné (BCH)
+Panne présente - IMA non appris (BDh),Breakdown - IMA not learned (BDH)
+Panne présente - Plausibilité offset EGR 2 (BEh),Panne present - Offset EGR 2 plausibility (BEH)
+Panne présente - Plausibilité offset EGR 3 (BFh),Panne present - Offset EGR 3 plausibility (BFH)
+Panne mémorisée - Signal CAN absent ou non valide (C0h),Disable failure - Signal can absent or not valid (C0H)
+Panne mémorisée - Incoherence vitesse (C1h),Disable failure - Speed incoherence (C1H)
+Panne mémorisée - Bloqué(e) ouvert(e) (C2h),Disable failure - Open blocked (E) (C2H)
+Panne mémorisée - Bloqué(e) fermé(e) (C3h),Macorized breakdown - Closed blocked (E) (C3H)
+Panne mémorisée - Derive min offset du capteur (C4h),Disable failure - Derive Min Offset of the sensor (C4H)
+Panne mémorisée - Derive max offset du capteur (C5h),Disable failure - MAX Offset derive from the sensor (C5H)
+Panne mémorisée - Derive min du capteur (C6h),Disable failure - Derive min of the sensor (C6H)
+Panne mémorisée - Derive max du capteur (C7h),Disable failure - MAX derive of the sensor (C7H)
+Panne mémorisée - Court circuit au + bat sur étage bas (C8h),Disable failure - Short circuit at + Bat on low floor (C8H)
+Panne mémorisée - Court circuit entre étage haut et étage bas (C9h),Subscribed breakdown - Short circuit between high and low floor (C9H)
+Panne mémorisée - Ouverture relais principal trop tôt (CAh),Disable failure - Main relay opening too early (CAH)
+Panne mémorisée - Ouverture relais principal trop tard (CBh),Disable failure - Main relay opening too late (CBH)
+Panne mémorisée - Défaut commandes conducteur (CCh),Straight failure - Driver commands defect (CCH)
+Panne mémorisée - Ecart de boucle négatif (CDh),Disable failure - Negative loop apart (CDH)
+Panne mémorisée - Ecart de boucle positif (CEh),Disable failure - positive loop apart (CEH)
+Panne mémorisée - Pression insuffisante grave (CFh),Stored failure - serious insufficient pressure (CFH)
+Panne mémorisée - Commande de pompe importante (D0h),Subscribed breakdown - Important pump control (D0H)
+Panne mémorisée - Commande de pompe importante au ralenti (D1h),Subscribed breakdown - Important pump control in slow motion (D1H)
+Panne mémorisée - Dépassement pression rail mini (D2h),Disable failure - Excess Pressure Rail Mini (D2H)
+Panne mémorisée - Dépassement pression rail maxi (D3h),Save failure - Maxi rail pressure excess (D3H)
+Panne mémorisée - EEPROM (D4h),Disable failure - EEPROM (D4H)
+Panne mémorisée - Watchdog (D5h),Drawed breakdown - Watchdog (D5H)
+Panne mémorisée - Pilotage injecteur (D6h),Save failure - Injector piloting (D6H)
+Panne mémorisée - Convertisseur A-N (D7h),Save failure - A -N converter (D7H)
+Panne mémorisée - Composant de pilotage injecteurs (D8h),Save failure - Injector piloting component (D8H)
+Panne mémorisée - Problème injection en laché de pied (D9h),Disable breakdown - problem injection problem (D9H)
+Panne mémorisée - Run Time (DAh),Disable failure - Run Time (Dah)
+Panne mémorisée - Plausibilité offset EGR 1 (DBh),Save failure - Offset EGR 1 plausibility (DBH)
+Panne mémorisée - Checksum eroné (DCh),DESSE PANCEMENT - ERONÉ CHECKSUM (DCH)
+Panne mémorisée - IMA non appris (DDh),Disable failure - IMA not learned (DDH)
+Panne mémorisée - Plausibilité offset EGR 2 (DEh),Save failure - Offset EGR 2 plausibility (DEH)
+Panne mémorisée - Plausibilité offset EGR 3 (DFh),Save failure - Offset EGR 3 plausibility (DFH)
+Panne pres. et mémo. - Signal CAN absent ou non valide (E0h),Breakdown near.and memo.- Signal can absent or not valid (E0H)
+Panne pres. et mémo. - Incoherence vitesse (E1h),Breakdown near.and memo.- Speed incoherence (E1H)
+Panne pres. et mémo. - Bloqué(e) ouvert(e) (E2h),Breakdown near.and memo.- Open blocked (E2H)
+Panne pres. et mémo. - Bloqué(e) fermé(e) (E3h),Breakdown near.and memo.- Closed blocked (E3H)
+Panne pres. et mémo. - Derive min offset du capteur (E4h),Breakdown near.and memo.- Derive min of the sensor (E4H)
+Panne pres. et mémo. - Derive max offset du capteur (E5h),Breakdown near.and memo.- Derive Max Offset of the sensor (E5H)
+Panne pres. et mémo. - Derive min du capteur (E6h),Breakdown near.and memo.- Derive min of the sensor (E6H)
+Panne pres. et mémo. - Derive max du capteur (E7h),Breakdown near.and memo.- MAX derive of the sensor (E7H)
+Panne pres. et mémo. - Court circuit au + bat sur étage bas (E8h),Breakdown near.and memo.- Short circuit at + Bat on low floor (E8H)
+Panne pres. et mémo. - Court circuit entre étage haut et étage bas (E9h),Breakdown near.and memo.- Short circuit between high and low floor (E9H)
+Panne pres. et mémo. - Ouverture relais principal trop tôt (EAh),Breakdown near.and memo.- Opening Main relay too early (EAH)
+Panne pres. et mémo. - Ouverture relais principal trop tard (EBh),Breakdown near.and memo.- Too late main relay opening (EBH)
+Panne pres. et mémo. - Défaut commandes conducteur (ECh),Breakdown near.and memo.- Driver commands defect (ECH)
+Panne pres. et mémo. - Ecart de boucle négatif (EDh),Breakdown near.and memo.- Negative loop gap (EDH)
+Panne pres. et mémo. - Ecart de boucle positif (EEh),Breakdown near.and memo.- Positive loop gap (EEH)
+Panne pres. et mémo. - Pression insuffisante grave (EFh),Breakdown near.and memo.- serious insufficient pressure (EFH)
+Panne pres. et mémo. - Commande de pompe importante (F0h),Breakdown near.and memo.- Important pump control (F0H)
+Panne pres. et mémo. - Commande de pompe importante au ralenti (F1h),Breakdown near.and memo.- Important pump command (F1H)
+Panne pres. et mémo. - Dépassement pression rail mini (F2h),Breakdown near.and memo.- Overcoming Rail Mini pressure (F2H)
+Panne pres. et mémo. - Dépassement pression rail maxi (F3h),Breakdown near.and memo.- Maxi rail pressure (F3H)
+Panne pres. et mémo. - EEPROM (F4h),Breakdown near.and memo.- Eeprom (F4H)
+Panne pres. et mémo. - Watchdog (F5h),Breakdown near.and memo.- Watchdog (F5H)
+Panne pres. et mémo. - Pilotage injecteur (F6h),Breakdown near.and memo.- Injector piloting (F6H)
+Panne pres. et mémo. - Convertisseur A-N (F7h),Breakdown near.and memo.- A-N converter (F7H)
+Panne pres. et mémo. - Composant de pilotage injecteurs (F8h),Breakdown near.and memo.- Injector piloting component (F8H)
+Panne pres. et mémo. - Problème injection en laché de pied (F9h),Breakdown near.and memo.- Boot injection problem (F9H)
+Panne pres. et mémo. - Run Time (FAh),Breakdown near.and memo.- Run Time (Fah)
+Panne pres. et mémo. - Plausibilité offset EGR 1 (FBh),Breakdown near.and memo.- Offset EGR 1 plausibility (FBH)
+Panne pres. et mémo. - Checksum eroné (FCh),Breakdown near.and memo.- Checksum Eroné (FCH)
+Panne pres. et mémo. - IMA non appris (FDh),Breakdown near.and memo.- IMA not learned (FDH)
+Panne pres. et mémo. - Plausibilité offset EGR 2 (FEh),Breakdown near.and memo.- Offset EGR 2 plausibility (Feh)
+Panne pres. et mémo. - Plausibilité offset EGR 3 (FFh),Breakdown near.and memo.- Offset EGR 3 plausibility (FFH)
+Panne mémorisée controle de trajectoire,Macorized failure of trajectory control
+Couple lent demandé par la boite,Slow couple requested by the box
+Etat de la régénération,State of regeneration
+Masse de suie dans le FàP propre (EEPROM),Mass of soot in the clean FàP (Eeprom)
+Ratio pédale accélérateur,Accelerator pedal ratio
+Frein appuyé,Brake
+Porteur 3 des détections de connexion MUX,MUX connection detection 3
+Présence Thermonplongeurs,Immersion heaters presence
+Distance parcourue depuis dernière régénération,Distance traveled since the last regeneration
+Numéro de software,Software number
+Régime moteur (CE),Engine diet (CE)
+Etat régulateur P sural. (CE),Regulator state.(THIS)
+Numéro de calibration,Calibration number
+Débit d'air par temps,Air flow in time
+Débit moteur (avec ASD),Engine flow (with ASD)
+Bouton SET ET PLUS appuyé,Set button and more supported
+paramètre lancement routine,Routine launch parameter
+Panne présente controle de trajectoire,Panne presents trajectory control
+état connexion avec producteur ECU n°3 -TdB-,Connection condition with producer ECU n ° 3 -TDB-
+Température d'air extérieure,Outdoor air temperature
+Charge alternateur filtrée (CE),Filtered alternator load (CE)
+Sortie à piloter,Output
+Etat de fermeture de la vanne EGR à C.C (CE),EGR valve closure state to C.C (CE)
+Panne mémorisée 2 switchs frein,Standed failure 2 switches brake
+FF_Numéro Apparition,Ff_numéro appearance
+Porteur des autres fonctions véhicules,Carrier of other vehicle functions
+Vitesse véhicule (CE),Vehicle speed (CE)
+Commande turbo après saturation,Turbo control after saturation
+Booléen panne mémorisée switch frein,Boolean Drawed Panne Sweet Switch
+Limitation couple sur défaut,Couple limitation on defect
+Etat réservoir Ce,CE reservoir state
+Quantité injection MII1,MII1 injection quantity
+Detection changement état un des 4 boutons volant,Detection change state one of the 4 flying buttons
+Température carburant,Fuel temperature
+Etat relais préchauffage,Preheating Relay State
+Airbag crash mémorisé,Airbag Crash memorized
+Pas d'écriture dans DC courant,No writing in DC Current
+Limites dépassées,Boundaries exceeded
+Débit d'air dans le FAP (CE),Air flow in the FAP (CE)
+Bouton SET ET MOINS appuyé,Set button and less supported
+status de la routine à lancer,Status of the routine to be launched
+test non terminé,Not finished test
+test terminé,Test completed
+Booléen panne présente switch frein,Boolean breakdown presents switch brake
+Quantité courante injectée (CE),Common quantity injected (CE)
+Température huile (CE),Oil temperature (CE)
+Couple moteur anticipé (CE),Anticipated engine torque (CE)
+Compteur appoint d'huile N°7,Oil extra counter n ° 7
+Température estimée dans le FàP,Estimated temperature in the FàP
+Consigne débit d'air EGR,EGR air flow set
+Requete de régénération par PAVT,Regeneration request by Pavt
+Limite Maxi quantité carburant (CE),Maximum limit fuel (CE)
+Température interne FAP estimée (CE),Estimated FAP internal temperature (CE)
+état connexion avec producteur ECU n°4 -UCH-,Connection condition with producer ECU n ° 4 -UCH-
+Détection changement état boutons Volant,Detection CLOOK CONTROL FLY BIRTS
+Tension capteur température avant FAP (CE),Temperature voltage before FAP (CE)
+Désactivation car demande ASR-MSR,Deactivation because ASR-MSR request
+Porteur 1 des détections de connexion MUX,1 carrier MUX connection detections
+Vitesse de régulation sélectionnée,Selected regulation speed
+Valeur partie P et I après limitations,Part value P and I after limitations
+Désactivation car ratio vitesse-consigne incoherent,Deactivation because Ratio Speed-Consigning Incoming
+Booléen cont. embrayage,Boolean cont.clutch
+Kilométrage parcouru depuis dernier remplissage,Mileage traveled since the last filling
+Contact principal climatisation filtré (CE),Main contact filtered air conditioning (CE)
+Etat regul débit air avec volet EGR,Regular state air flow with EGR shutter
+Ecriture Ligne d'état volet d'admission,Scripture of state line
+Quantité carburant injecté (CE),Injected fuel quantity (CE)
+Volume d'additif consomé 1,Consome 1 additive volume 1
+Libellé du DTC,DTC wording
+Pression différentielle récalculée invalide,Invalid recalculated differential pressure
+Premier système de gestion température gaz d'échappement,First exhaust gas temperature management system
+Second système de gestion température gaz d'échappement,Second exhaust gas temperature management system
+Régulation Pression Rail,Rail pressure regulation
+Dépassement du nombre de régénérations,Exceeding the number of regenerations
+Défaut ESP,ESP default
+Régulation de vitesse,Speed regulation
+Piquage défectueux,Defective stitching
+Démarrage authorisé,Authorized start
+Tension capteur pédale accélérateur 2 (CE),Accelerator 2 (CE) Accelerator Personal Sensor Voltage
+Caractéristique des injections selectionnées (CE),Characteristic of selected injections (CE)
+Booléen contact stop à fermeture,Boolean contact stop closure
+Porteur des pannes présentes RV,Carnatables present RV
+Panne mémorisée incohérence bouton M-A,Missing failure inconsistency button m-a
+Déviation vanne EGR à C.C. (CE),EGR valve deviation to C.C. (CE)
+Etat machine d'état Ce,CE State Machine State
+Numéro de réserve,Reserve number
+Porteur des causes normales de désactivation RV,Carrier of normal RV deactivation causes
+Pilotage terminé,Management completed
+Pression fluide réfrigérant (CE),Fluid refrigerant pressure (CE)
+Nombre de régénérations échouées,Number of failed regenerations
+Numéro de hardware,Hardware number
+Volume d'additif consomé 2,Consome 2 additive volume 2
+Etat Terminal 15 filtré (CE),Terminal State 15 Filtered (CE)
+Statut plausibilité frein (CE),Brake plausibility status (CE)
+Panne présente des deux contacts freins,Breakdown presents two brake contacts
+Ligne d'état diag volet d'admission,Status line Diagnon
+Numéro d'indice DIAG,DIAG
+Désactivation car demande ASR,Deactivation because ASR requests
+Offset vanne EGR après apprentissage,Offset EGR valve after learning
+Désactivation car détection de panne RV-LV,Deactivation because RV-LV failure detection
+Sortie à surveiller,Exit to monitor
+Débit désiré avant limitation système et sans LiGov,Dedicated flow before system limitation and ligov
+routine à lancer,launching routine
+Homologation : régénération FàP,Approval: FàP regeneration
+Régénération APV du FàP (Ap soft VC5),APV regeneration of FàP (AP Soft VC5)
+Kilométrage parcouru avec les memes injecteurs,Mileage traveled with the same injectors
+Puissance THP désirée,Desired THP power
+Ratio pédale après tests de sécurité (CE),Pedal ratio after safety tests (CE)
+Sortie pompe réservoir Ce,Tank pump output
+Tension capteur température huile,Sensor voltage temperature oil
+Etat voyant température eau,Water temperature statement
+Tension capteur pédale accélérateur 1 (CE),Accelerator 1 (CE) pedal sensor tension (CE)
+Désactivation car désaccouplage moteur-boite,Deactivation because engine-bean unlinking
+Ligne d'état volet d'admision (CE),Status line of admission component (CE)
+Désactivation car appui frein,Deactivation because brake support
+état connexion avec producteur ECU n°13,Connection condition with producer ECU n ° 13
+Quantité carburant mesurée (CE),Measured fuel quantity (CE)
+Panne présente incohérence bouton M-A,Failure presents inconsistency button m-a
+"Nombre de messages ""reservoir vide"" reçus","Number of ""empty reservoir"" messages received"
+Température d'eau (CE),Water temperature (CE)
+Température avant FàP,Temperature before FàP
+Tension capteur température huile (CE),Oil temperature sensor voltage (CE)
+Masse de suie Max avant régénération,Max sooter before regeneration
+Tension capteur température eau,Water temperature sensor voltage
+Tension capteur température carburant,Fuel voltage Fuel temperature
+Débit maximal,Maximum flow
+Pression fréon,Fréon pressure
+Status des tests de sécurité pédale (CE),Status of pedal safety tests (CE)
+Retour diag préchauffage (CE),Return diag preheating (CE)
+Timer automate de la régénération,Timer PLC of regeneration
+Pression différentielle dans le FàP,Differential pressure in the FàP
+Système,System
+Compteur appoint d'huile N°8,Oil extra counter n ° 8
+Compteur appoint d'huile N°9,Oil extra counter n ° 9
+Compteur appoint d'huile N°3,Oil extra counter n ° 3
+Compteur appoint d'huile N°6,Oil extra counter n ° 6
+Différence entre T° estimée et mesurée dans le FàP,Difference between estimated and measured temperature in the FàP
+Compteur appoint d'huile N°4,Oil extra counter n ° 4
+Compteur appoint d'huile N°5,Oil extra counter n ° 5
+Masse de suie dans le FàP (2 octets),Mass of soot in the FàP (2 bytes)
+Etat voyant défaut injection,Setting state Injection defect
+Tension capteur température après FAP (CE),Temperature sensor voltage after FAP (CE)
+Quantité injection PoI1,POI1 injection quantity
+Bouton Marche-Arret RV appuyé,RV steps button pressed
+Bouton MARCHE / ARRET RV appuyé,Plerated RV Strong / Strong
+Masse de suie dans le FàP avant régénération (EEPROM),Mass of soot in the FàP before regeneration (EEPROM)
+Panne mémorisée un des deux contacts freins,Drawed failure one of the two brake contacts
+Information frein principal filtrée (CE),Filtered main brake information (CE)
+Paramètre Mute,Mute parameter
+Tension débitmètre d'air,Air flow meter voltage
+Pression atmosphérique (CE),Atmospheric pressure (CE)
+RCO TVA après régul,RCO VAT after Regul
+Position volet EGR désirée (CE),Desired EGR shutter position (CE)
+Etat régul pression turbo,Regular Turbo Pressure State
+Arrêter pilotage,Stop piloting
+Tension niveau réservoir Ce,Tank level voltage
+Courant de la MPROP mesuré,MPROP MPROP
+état connexion avec producteur ECU n°9 -BVA-,Connection condition with producer ECU n ° 9 -BVA-
+état connexion avec producteur ECU n°8 -CLIM-,Connection condition with producer ECU n ° 8 -Clim-
+Numéro de fournisseur,Supplier
+Compteur appoint d'huile N°10,Oil extra counter n ° 10
+Régime moteur,Engine speed
+Etat préchaufffage,Preheating State
+Débit moteur + FBC,Engine flow + FBC
+Panne présente un des deux contacts freins,Breakdown presents one of the two brake contacts
+Porteur des causes anormales de désactivation RV,Bearer of the abnormal RV deactivation causes
+routine à arrêter,routine to stop
+Pression avant FàP,Pressure before FàP
+Valeur de pré-contrôle turbo(CE),Turbo pre-control value (CE)
+Pression suralimentation filtrée,Filtered supercharging pressure
+état connexion avec producteur ECU n°11,Connection condition with producer ECU n ° 11
+Débit injecté,Injected flow
+Tension capteur température air,Air temperature sensor voltage
+Couple après gestion des erreurs,Couple after error management
+Nombre d'injections autorisé (CE),Number of injections allowed (CE)
+status de la routine à arreter,Status of the routine to stop
+RCO TVA désiré,RCO VAT desired
+Panne présente des commandes au volant,Breakdown has steering wheel controls
+Ecriture Trame FàP,Writing FàP frame
+Start routine : régé FAP,Start Routine: FAP regeneration
+Trame DC - (Ce / FàP),DC frame - (CE / FàP)
+SRBLI arrêt routine,Srbli routine stop
+Contrôle paramètres moteur,Engine parameters control
+Contrôle Trame Mux,Trame Mux control
+Réinit apprentissages,Reinit learning
+Débit / injection,Flow / injection
+EEPROM - FàP,EEPROM - FàP
+Filtre à particule,Particle filter
+Réinitialisation Apprentissages,Reset learning
+Changement d'états RV/LV,Change of RV/LV States
+Désactivations RV/LV,RV/LV deactivation
+Capteur pédale,Pedal sensor
+Contrôle Moteur,Engine control
+Débits et pressions,DEBITS AND PRESSURES
+Moteur / Véhicule,Engine / vehicle
+Températures,Temperatures
+Pour réinitialiser les compteurs du,To reset the counters of
+Pour réinitialiser les offsets de la,To reset the offsets of the
+"vanne EGR, réécrire les valeurs","EGR valve, rewrite the values"
+"volet d'admission d'air, réécrire","air intake component, rewrite"
+Trame réseau MUX,MUX network frame
+Filtre à Particule,Particle filter
+Régénération,Regeneration
+Régénération FAP,FAP regeneration
+Ecriture EEPROM - Trame FàP,EPROM Writing - FàP frame
+Lecture EEPROM - Trame FàP,Reading Eeprom - Fàp frame
+Ecriture Données FàP,FàP Data Writing
+Débit - Injection,Flow - Injection
