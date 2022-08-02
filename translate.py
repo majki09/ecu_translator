@@ -259,12 +259,6 @@ def main():
                              help="Provides file to translate.")
     args_parser.add_argument("--lang", "-l", required=True, metavar="en", type=str,
                              help="Output language to translate.")
-    # args_parser.add_argument("--noupdate", required=False, choices=["true", "false"], default="false",
-    #                          help="IOC will be not updated to tested SW before test if used.")
-    # args_parser.add_argument("--forceupdate", required=False, choices=["true", "false"], default="false",
-    #                          help="IOC will be updated to tested SW before test anyway.")
-    # args_parser.add_argument("--UPGP2", required=True, choices=["true", "false"], default="true",
-    #                          help="Script will use UPGP2 procedures to unlock Secure Area.")
 
     args = args_parser.parse_args()
 
