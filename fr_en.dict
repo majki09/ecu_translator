@@ -242,7 +242,7 @@ Couple Moteur effectif Max,MAX Effective engine torque
 Tension reference ADC,ADC Reference Tension
 RCO Volet d'admission,RCO Admission shutter
 FLGCLIM4,FLGCLIM4
-Non,Nope
+Non,No
 Oui,Yes
 Etat trame EDC (CE),State Trame Edc (CE)
 RAMI,RUMMY
@@ -1583,3 +1583,549 @@ Ecriture EEPROM - Trame FàP,EPROM Writing - FàP frame
 Lecture EEPROM - Trame FàP,Reading Eeprom - Fàp frame
 Ecriture Données FàP,FàP Data Writing
 Débit - Injection,Flow - Injection
+Impédance ABF_PSG_NIV1,Impedance abf_psg_niv1
+Etat du témoin defaut airbag,Airbag DEFAUT TEMENT
+ALLUME,ALIGHT
+CLIGNOTANT,TURN SIGNAL
+ETEINT,OFF
+fonction SBR,SBR function
+Non disponible,Not available
+Disponible,Available
+Statut presence ABS,ABS PREENCE status
+present,present
+Pas present,Not present
+Configuration ABLAT THORAX CDC,Configuration Ablat Thorax CDC
+NON,NO
+OUI,YES
+Autodiagnostic accéléré,Accelerated autodiagnosis
+Autoriser PPB PSG en série avec enrouleur arrière coté PSG,Authorize PPB PSG in series with rear rear rear side PSG
+deconfiguration,configuration
+configuration,configuration
+Indice piece,Piece index
+- - -,- - -
+A,HAS
+B,B
+C,VS
+D,D
+E,E
+F,F
+G,G
+H,H
+I,I
+quantieme de fabrication,production date
+Autoriser ABLAT Thorax AR PSG,Authorize Ablat Thorax AR PSG
+Status pilotage High-G,High-G Step
+Pilotage High-G en cours,HIGH-G management in progress
+Pilotage High-G terminé,High-G piloting finished
+Seuil min position 400 Ohm,Threshold min position 400 ohm
+Année-Mois-Jour,"Year, month, day"
+Allumeurs déjà mis à feu_partie haute,Lights already set on fire
+Parametre TDB absent,Absent TDB parameter
+Impédance PPB PSGen série avec enrouleur arrière cote PSG,Impedance PPB Psgen Series with rear rear coast PSG
+Impédance capteur position siege conducteur,Driver Siege Siege Position Impedance
+VIN lu,Wine read
+Autoriser AB RIDEAU CDC,Authorize AB Rideau CDC
+C_Absent a 255 pour ABS,C_Absent at 255 for ABS
+Autoriser PPV conducteur,Authorize PPV Driver
+Paramètre Module muet,Mute module parameter
+C_BusOFF a 255,C_Busoff at 255
+Nb de RAZ EEPROM,Number of EEPROM resets
+MAF ABF CDC Niveau 2,MAF ABF CDC Level 2
+Configuration RIDEAU PSG,PSG curtain configuration
+Airbag_OFFLampOperational,Airbag_offlampoperational
+Seuil MAX position 100 Ohm,Max threshold position 100 ohm
+AirbagMalfunctionLampOperational,AirbagmalfunctionLamperational
+Verrouillage_Déverrouillage,Lock_Unlock
+Verrouillage,Lock
+Déverrouillage,Unlocking
+Lignes de MAF configurees partie basse,MAF lines Configures low
+Autoriser capteur posit. siege CDC,Authorize POSIT sensor.CDC seat
+Inhibition AB_PSG en APV,Inhibition AB_PSG in APV
+Inhiber AB_PSG,Inhibit AB_PSG
+Activer AB_PSG,Activate AB_PSG
+N° Hardware,Hardware number
+Compteur M_BusOFF,M_Busoff counter
+MAF PPV conducteur,MAF PPV Driver
+AA-MM-JJ,AA-MM-JJ
+Impédance ABF_CDC_NIV1,Impedance ABF_CDC_niv1
+Impédance ABF_CDC_NIV2,Impedance ABF_CDC_niv2
+Vitesse ABS CAN,ABS speed can
+Position siège conducteur,Driver seat position
+Safing fermé en roulage,Safing closed in rolling
+Configuration AB PSG Niveau 1,AB PSG Configuration Level 1
+Configuration AB PSG Niveau 2,AB PSG Level 2 configuration
+MAF PPV passager (pour X73),Maf ppv passenger (for x73)
+Configuration AB CDC Niveau 2,AB CDC Configuration Level 2
+Code ITG,ITG code
+Parametre ABS absent,Absent ABS parameter
+Configuration AB CDC Niveau 1,AB CDC Configuration Level 1
+Configuration PPB CDC en série avec enrouleur arrière cote CDC,PPB CDC configuration in series with rear rear coast CDC
+Nb de défauts présents enregistrés en RAM,Number of faults present recorded in RAM
+Impédance clé d'inhibition,Inhibition key impedance
+Annee fab,Year fab
+Impédance ligne 15,Line Impedance 15
+Impédance ligne 16,Line impedance 16
+Configuration des ES,ES configuration
+Crash non confirmé sur choc frontal,Unconfirmed crash on frontal shock
+Autoriser AB CDC Niveau 1,Authorize AB CDC Level 1
+Autoriser AB CDC Niveau 2,Authorize AB CDC Level 2
+Statut Muet,Mute status
+Non MUET,Non -mute
+MUET,MUTE
+Compteur M_Absent pour TDB,M_Absent meter for TDB
+Impédance PPV passager (pour X73),Passenger PPV impedance (for x73)
+MAF tous allumeurs,MAF All Loaders
+Tous allumeurs mis à feu,All ignitions set on fire
+Allumeurs pas tous mis à feu,Lights not all set on fire
+Configuration HighG pour X73,Highg configuration for X73
+Seuil min CLE par rapport à 400 Ohm,Min key threshold compared to 400 ohm
+Code APV,APV code
+Statut presence TDB,TDB Presence status
+Seuil MAX CLE par rapport à 400 Ohm,Max key threshold compared to 400 ohm
+Ligne de MAF à corriger,MAF line to be corrected
+PPV conducteur,PPV Driver
+PPV passager,Passenger PPV
+PPB CDC en série avec enrouleur arrière cote CDC,PPB CDC in series with rear rear coast CDC
+PPB PSG en serie avec enrouleur arrière cote PSG,PPB PSG in series with rear rear coast psg
+AirBag Frontal Passager Adaptatif Niveau 1,ADAPTIVE PASSERS AT ADAPTIVE LEVEL 1 AIRBAG
+AirBag Frontal Passager Adaptatif Niveau 2,ADAPTIVE PASTRY AIRBAG LEVEL 2
+AirBag Frontal Conducteur Adaptatif Niveau 1,Adaptive conductive frontal airbag Level 1
+AirBag Frontal Conducteur Adaptatif Niveau 2,ADAPTIVE LEVED DURBAGE AIRBAG Level 2
+AB rideau CDC (1ère et 2ème rangées),AB Rideau CDC (1st and 2nd rows)
+AB rideau PSG (1ère et 2ème rangées),AB Rideau PSG (1st and 2nd rows)
+AirBag Lateral Thorax Avant Conducteur,Lateral Airbag before driver
+AirBag Lateral Thorax Avant Passager,Lateral Airbag before passenger
+ligne 15,line 15
+ligne 16,line 16
+Impédance ABF_PSG_NIV2,Impedance abf_psg_niv2
+Autoriser PPB CDC en série avec enrouleur arrière coté CDC,Authorize PPB CDC in series with rear rear rear side CDC
+N individuel,N individual
+CKS ROM,CKS ROM
+Satellite Conducteur,Driver satellite
+Seuil min position 100 Ohm,Threshold min position 100 ohm
+Voyant defaut commandé suite à crash,DEFAUT VEER ordered following CRASH
+Autoriser AB RIDEAU CDC 3eme rangee (J81),Authorize AB Rideau CDC 3rd Rangee (J81)
+Deconfiguration,Configuration
+Configuration,Configuration
+Boitier verrouillé par diagnostic,Box locked by diagnosis
+Autoriser PPB avant en serie J81,Authorize PPB before in Serie J81
+Autoriser PPV passager (pour X73 et J81),Authorize passenger PPV (for X73 and J81)
+Impédance PPB CDC en série avec enrouleur arrière cote CDC,PPB CDC impedance in series with rear rear coast CDC
+Configuration ligne 16,Line configuration 16
+Configuration ligne 15,Line configuration 15
+Airbag_offLampState,Airbag_offlampstate
+MAF ABLAT Thorax AR Côté CDC,Maf ablat thorax ar side cdc side
+Seuil min CLE par rapport à 100 Ohm,Threshold min key compared to 100 ohm
+Code MPR,MPR code
+Autoriser AB PSG Niveau 2,Authorize AB PSG Level 2
+Autoriser AB PSG Niveau 1,Authorize AB PSG Level 1
+VIN à inscrire,Wine to register
+Tension batterie Hors Gamme*,Battery voltage out of range*
+Autodiags arretes,Arretes Autodiags
+Autodiags en cours,Autodiangs in progress
+Compteur M_Absent pour ABS,M_Absent meter for ABS
+PPV passager (pour X73 et J81),Passenger PPV (for X73 and J81)
+PPB CDC en série avec enrouleur arrière coté CDC,PPB CDC in series with rear rear rear coated
+PPB PSG en série avec enrouleur arrière coté PSG,PPB PSG in series with rear rear roller on the PSG side
+AirBag Rideau Conducteur,Driver Curtain Airbag
+AirBag Rideau Passager,Airbag Passenger curtain
+AirBag Latéral Thorax AR côté CDC,Side airbag thorax ar side cdc side
+AirBag Latéral Thorax AR côté PSG,Side airbag thorax ar side PSG
+Ligne 15,Line 15
+Ligne 16,Line 16
+Capteur Position Siege Avant Conducteur,Driver front seat sensor
+Cle d'inhibition,Inhibition key
+Satellite lateral avant conducteur,Driver lateral satellite
+Satellite lateral avant passager,Passenger lateral satellite
+Liaison High-G pour la fonction BIS (réservé X73),High-G connection for the bis function (reserved x73)
+Voyant défaut AIRBAG par TdB via CAN,Airbag fault indicator by TDB via CAN
+Voyant AIRBAG_OFF par TdB via CAN,Airbag_off indicator by TDB via CAN
+Alimentation du calculateur,Calculator supply
+Configuration satellites,Satellite configuration
+Configuration Ligne de MAF,MAF line configuration
+Réseau CAN,CAN network
+Capteur boucle passager,Passenger loop sensor
+Capteur nappe presence passager,Passenger tableware sensor
+Configuration cote de direction,Direction rating configuration
+Changement etat clé d'inhibition,Change state inhibition key
+MaF verrouillé par diagnostique,MAF locked by diagnosis
+Calculateur à changer apres MaF,Calculator to change after maf
+ERR_LOW_TRANSISTOR(01),Err_low_transistor (01)
+ERR_LOW_TRANSISTOR(02),Err_low_transistor (02)
+ERR_LOW_TRANSISTOR(03),Err_low_transistor (03)
+ERR_LOW_TRANSISTOR(04),Err_low_transistor (04)
+ERR_LOW_TRANSISTOR(05),Err_low_transistor (05)
+ERR_LOW_TRANSISTOR(06),Err_low_transistor (06)
+ERR_LOW_TRANSISTOR(07),Err_low_transistor (07)
+ERR_LOW_TRANSISTOR(08),Err_low_transistor (08)
+ERR_LOW_TRANSISTOR(09),Err_low_transistor (09)
+ERR_LOW_TRANSISTOR(10),Err_low_transistor (10)
+ERR_LOW_TRANSISTOR(11),Err_low_transistor (11)
+ERR_LOW_TRANSISTOR(12),Err_low_transistor (12)
+ERR_LOW_TRANSISTOR(13),Err_low_transistor (13)
+ERR_LOW_TRANSISTOR(14),Err_low_transistor (14)
+ERR_LOW_TRANSISTOR(15),Err_low_transistor (15)
+ERR_LOW_TRANSISTOR(16),Err_low_transistor (16)
+ERR_INT_BUS_TRANSMISSION,Err_int_bus_transmission
+ERR_UP_TRANSISTOR(01),Err_up_transistor (01)
+ERR_UP_TRANSISTOR(02),Err_up_transistor (02)
+ERR_UP_TRANSISTOR(03),Err_up_transistor (03)
+ERR_UP_TRANSISTOR(04),Err_up_transistor (04)
+ERR_UP_TRANSISTOR(05),Err_up_transistor (05)
+ERR_UP_TRANSISTOR(06),Err_up_transistor (06)
+ERR_UP_TRANSISTOR(07),Err_up_transistor (07)
+ERR_UP_TRANSISTOR(08),Err_up_transistor (08)
+ERR_UP_TRANSISTOR(09),Err_up_transistor (09)
+ERR_UP_TRANSISTOR(10),Err_up_transistor (10)
+ERR_UP_TRANSISTOR(11),Err_up_transistor (11)
+ERR_UP_TRANSISTOR(12),Err_up_transistor (12)
+ERR_UP_TRANSISTOR(13),Err_up_transistor (13)
+ERR_UP_TRANSISTOR(14),Err_up_transistor (14)
+ERR_UP_TRANSISTOR(15),Err_up_transistor (15)
+ERR_UP_TRANSISTOR(16),Err_up_transistor (16)
+ERR_RAM,Err_ram
+ERR_3V_VOLTAGE,Err_3v_Volage
+ERR_EEPROM_ACCESS,Err_eeprom_access
+ERR_EEP_NOT_PRGMED,Err_eep_not_prgmed
+ERR_EEP_CORRUPTED,Err_eep_corrupted
+ERR_EEP_OUT_OF_ORDER,Err_eep_out_of_order
+ERR_DIODE,Err_diode
+ERR_HW_OFFSET,Err_hw_offset
+ERR_WARM_RESET,Err_warm_reset
+ERR_SW_OFFSET,Err_sw_offset
+ERR_NO_CONF_FOR_CRASH,Err_no_conf_for_crash
+ERR_ASIC_TEST,Err_asic_test
+ERR_CAP_CHARGE_TIME_OUT,Err_cap_charge_time_out
+ERR_ACC_TEST,Err_acc_test
+ERR_SAFING,Err_safing
+ERR_HIGH_G_TRANSISTOR,Err_high_g_transistor
+ERR_ACC_SATURATION,Err_acc_Saturation
+ERR_CAP_CHARGE_VOLTAGE,Err_cap_charge_volting
+ERR_CAP_CAPACITANCE,Err_cap_capacitance
+ERR_SLS_SENSOR_DRIVER,Err_sls_sensor_driver
+ERR_SAT_SATURATION_i,Err_sat_saturation_i
+Impédance ABLAT_CDC,Impedance Ablat_CDC
+Etat inhibition ABPSG par APV,APV inhibition state by APV
+Inhibition APV non demandée,APV inhibition not requested
+Inhibition APV demandée,APV inhibition requested
+Impédance RIDEAU PSG,PSG curtain impedance
+Seuil MAX CLE par rapport à 100 Ohm,Max key threshold compared to 100 ohm
+Autoriser High G pour X73,Authorize High G for X73
+Lignes de MAF configurees partie haute,MAF lines Configurees High part
+calculateur à changer,calculator to change
+Statut BusOFF,Busoff status
+Bus ON,Bus we
+Bus OFF,Bus off
+Tension mesuree sur entree High G pour X73,Tension measured on High G entry for x73
+Configuration PPV passager (pour X73),Passenger PPV configuration (for x73)
+C_Absent a 255 pour TDB,C_Absent at 255 for TDB
+MAF ABLAT Thorax AR côté PSG,Maf ablat thorax ar side psg
+Etat Instantanné d'inhibition des ABPSG,Instant state of inhibition of ABPSG
+AIRBAGS PSG ACTIVABLES,Airbags PSG Activable
+AIRBAGS PSG INHIBES,Inhibited airbags PSG
+MAF PPB PSG en série avec enrouleur arrière coté PSG,Maf ppb psg in series with rear rear rear side PSG
+Nouvelle valeur de seuil impedance MAF,New Impedance MAF threshold value
+Configuration ABLAT Thorax AR côté PSG,Configuration Ablat Thorax AR Side PSG
+Autoriser AB RIDEAU PSG 3eme rangee (J81),Authorize AB Rideau PSG 3rd Rangee (J81)
+Autoriser ABLAT Thorax CDC,Authorize Ablat Thorax CDC
+sortie High-G pour X73,High-g output for X73
+Niveau Haut,High level
+Niveau bas,Low level
+Sortie Non configuré,Output not configured
+Compteur M_Mute,M_mute counter
+Configuration clé d'inhibition,Inhibition key configuration
+Nouveau seuil HighG supérieur,New higher high high threshold
+Statut pilotage crashoutput,Crashoutput pilot status
+pilotage en cours,Current management
+hors pilotage,excluding piloting
+Nombre octets à lire,Outs to read
+Direction configurée,Direction configured
+NA,N / A
+Direction à gauche configurée,Direction on the left configured
+Direction à droite configurée,Direction on the right configured
+aucune direction configurée,No direction configured
+MAF AB RIDEAU PSG,MAF AB Rideau PSG
+Etat position siege conducteur,Driver Siege Position State
+Capteur Non configuré,Unbounded sensor
+avancee,advanced
+reculee,steephead Valley
+Config Reseau Can à inscrire,CAN network config to register
+Autoriser AB RIDEAU PSG,Authorize AB Rideau PSG
+Nouveau seuil HighG inférieur,New lower high high threshold
+Référence messagerie MUX,MUX messaging reference
+Impédance ABLAT Thorax AR côté PSG,Impedance Ablat Thorax Ar side PSG
+Type mémoire,Memory type
+RAM,Ram
+Seuils alerte impédance modifiés,Modified impedance alert thresholds
+Config ECU diagnosticable lue,Config Ecu Diagnothable LUE
+Parametre AIRBAG absent,Absent Airbag parameter
+MAF ABLAT THORAX PSG,MAF Ablat Thorax PSG
+Etat demandé sur les témoins,State requested on witnesses
+statut,status
+AB_OFF et INHIB_PSG_ON,Ab_off and inhib_psg_on
+AB_ON et INHIB_PSG_ON,Ab_on and inhib_psg_on
+AB_OFF et INHIB_PSG_OFF,Ab_off and inhib_psg_off
+AB_ON et INHIB_PSG_OFF,Ab_on and inhib_psg_off
+Clé d'inhibition,Inhibition key
+Autoriser ligne 4,Authorize line 4
+Deconfigurer,Deceive
+Configurer,Configure
+Configuration capteur posit. siege CDC,POSIT sensor configuration.CDC seat
+Output Permanent Control List Crashoutput,Permanent output control list crashoutput
+crashoutput niveau 2,Crashoutput Level 2
+crashoutput niveau 1,Crashoutput Level 1
+Seuil CO ou CC ligne de MAF à corriger,MAF CO or CC threshold to be corrected
+Court-circuit,Short-circuit
+Circuit ouvert,Open circuit
+N° calibration,Calibration number
+Autoriser AB RIDEAU PSG rangees 1 et 2 (J81),Authorize AB Rideau PSG Rangees 1 and 2 (J81)
+MAF ABF PSG Niveau 2,MAF ABF PSG Level 2
+MAF ABF PSG Niveau 1,MAF ABF PSG Level 1
+Configuration PPB PSG en série avec enrouleur arrière cote PSG,PPB PSG Configuration in series with rear rear coast PSG
+MAF ligne 16,MAF Line 16
+MAF ligne 15,Maf line 15
+MAF ABF CDC Niveau 1,MAF ABF CDC Level 1
+Cle crashoutput,CRASHOUTPUT CLE
+ES disponibles,Are available
+Impédance RIDEAU CDC,CDC curtain impedance
+Etat clé d'inhibition,Key inhibition state
+Enclenché - AB_PSG_OFF,Truck - AB_PSG_OFF
+Non enclenché - AB_PSG_ON,No triggered - ab_psg_on
+Adresse de depart du champ a lire,Department of the field to read
+Impédance ABLAT_PSG,Ablat_psg impedance
+Version logiciel MCU safing,McU Safing software version
+Autoriser ligne 16,Authorize line 16
+Autoriser ABLAT Thorax AR CDC,Authorize Ablat Thorax AR CDC
+MAF AB RIDEAU CDC,MAF AB Rideau CDC
+MAF ABLAT THORAX CDC,MAF Ablat Thorax CDC
+Impédance ABLAT Thorax AR côté CDC,Impedance Ablat Thorax Ar side CDC
+Parametre de pilotage High G,High G steering parameter
+Activer High G pdt 10 s,Activate High G PDT 10 S
+Demander Statut pilotage High G,Request High G steering status
+Arreter Pilotage High G,Stop High G steering
+Commencer pilotage permanent,Start permanent control
+Config Reseau Can lue,CAN LUE NETWORK Config
+Code Vehicule,Vehicle code
+X06,X06
+X57,X57
+X53,X53
+X56,X56
+X54,X54
+X65,X65
+X64,X64
+X74,X74
+X73,X73
+J81,J81
+J66,J66
+X20,X20
+F40,F40
+X76,X76
+Configuration ABLAT Thorax AR côté CDC,Configuration Ablat Thorax Ar side CDC
+Configuration PPV conducteur,Driver PPV configuration
+Configuration satellite conducteur,Driver satellite configuration
+Autoriser AB RIDEAU CDC rangees 1 et 2 (J81),Authorize AB Rideau CDC Rangees 1 and 2 (J81)
+CKS E2P zone protegee crash,CKS E2P Zone Protected Crash
+Allumeurs déjà mis à feu_partie basse,Lights already set on fire
+CAN,CAN
+Status pilotage témoin,Status control of witness
+Pilotage témoin en cours,Control controller in progress
+Témoins hors pilotage,Witnesses out of management
+Autoriser ABLAT Thorax PSG,Authorize Ablat Thorax PSG
+Etat nappe presence passager,Passenger preence tableware
+capteur non configure,Unbeatable sensor
+passager present,passenger present
+passager absent,passenger absent
+CRC du VIN lu,CRC Du Vin Lu
+Nb de défauts fugitifs enregistrés en RAM,Number of fugitive defects recorded in RAM
+Etat boucle passager,Passenger loop
+occupant boucle,occupant
+occupant non boucle,Occupant not loop
+Specifique,Specific
+statut normalisé,standardized status
+statut specifique (ex. chgt etat cle au dela du seuil de vitesse),Specific status (e.g. CHGT CLE CLE AT THE DELA OF THE SPEEW)
+Config ECU diagnosticable à inscrire,Config Ecu Diagnothable to register
+Crash non confirmé sur choc lateral,Non -confirmed crash on lateral shock
+Impédance PPV conducteur,Driver PPV impedance
+C_Mute a 255,C_mute at 255
+Seuil MAX position 400 Ohm,Max threshold 400 ohm
+Configuration ABLAT THORAX PSG,Configuration Ablat Thorax PSG
+Configuration RIDEAU CDC,CDC curtain configuration
+Configuration satellite passager,Passenger satellite configuration
+CKS E2P zone protegee totale,CKS E2P Total Protegee Zone
+N° logiciel,Software number
+Autoriser ligne 15,Authorize line 15
+TDB_BASE CAN,Tdb_base can
+Etat du témoin AB_OFF,AB_OFF Witness State
+Nb de crash enregistrés,Number of crash recorded
+AirbagMalfunctionLampState,Airbagmalfunctionlampstate
+Configuration coté de direction,Direction side configuration
+Configuration conduite à gauche,Left driving configuration
+Configuration conduite à droite,Right's driving configuration
+Pas de configuration,No configuration
+MAF PPB CDC en série avec enrouleur arrière coté CDC,MAF PPB CDC in series with rear rear rear side CDC
+Boitier configuré par diagnostic,Box configured by diagnosis
+Autoriser CLE INHIBITION,Authorize inhibition key
+Nbre maxi de voies ASIC,Maximum number of ASIC tracks
+N version E2P,N E2P version
+Output Control Status Crashoutput,Output Control Status Crashoutput
+pilotage permanent,Permanent management
+demande de statut,Status request
+arreter le pilotage,stop piloting
+Parametre pilotage témoins,Indicator control parameter
+Pilotage permanent,Permanent management
+Demande de status témoins,Request for witness status
+Arreter pilotage,Stop piloting
+Paramètre BUS OFF,Bus off setting
+CRC,CRC
+Fonction High-G,High-G function
+Fonction crashoutput 2 niveaux,Crashoutput function 2 levels
+disponible,available
+Config inhibition PSG,PSG inhibition config
+Airbags Passagers Frontaux inhibables,Inhibible frontal passenger airbags
+Airbags Passagers Frontaux + Latéraux inhibables,Front passenger airbags + inhibable side
+N° version,N ° version
+BE,Be
+Production,Production
+AprèsVente,AfterSales
+Satellite Passager,Passenger satellite
+non utilisé,Not used
+Fuite masse,Ground leak
+Fuite plus,Plus leak
+"Incohérence, non plausible (mauvaise config par ex)","Inconsistency, not plausible (bad config for example)"
+Pas de communication avec satellite(s),No communication with satellite (s)
+valeur en dessous du seuil minimum,value below the minimum threshold
+Défaut interne capteur,Internal defect sensor
+Défaut réseau CAN,CAN network defect
+Défaut à distance (TdB par exemple pour les voyants),Distance defect (TDB for example for lights)
+Communication perturbée,Disturbed communication
+Microcoupures tension d'alimentation (ou statut specifique),Power voltage microcoupures (or specific status)
+Défaut tension alimentation,Floor defect power supply
+Valeur hors limite,Value out of range
+Ecriture ECUdiagnosticables,Ecudiagnosticable Writing
+Retour Configuration MAF par defaut,Return configuration maf by default
+Etat du système,System state
+Inhibition APV,APV inhibition
+LectureECUdiagnosticables,Readcudiagnosticable reading
+Output Control Fonction High G X73,Output Control Function High G X73
+Ecriture configuration direction,Writing Configuration Direction
+Configuration MAF X74 et X73,MAF X74 and X73 configuration
+Correction seuils High-G X73,Correction High-G X73 thresholds
+Identification UCE centrale,Central ECE identification
+Ecriture date intervention APV,Writing Date Intervention APV
+Lecture VIN,Wine reading
+Correction seuils Inhibition,Inhibition thresholds correction
+LectureConfigVehiculeCAN,CONSTROFIGVEHULLECAN reading
+Correction seuils position sieges,Correction Thresholds Position Sieges
+ReadMemoryByAddress,ReadMemoryByAddress
+Configuration MAF J81,MAF J81 configuration
+Ecriture date fabrication vehicule,Write vehicle manufacturing date
+Configuration ES,Configuration
+Synthèse infos capteurs,Summary Info sensors
+Lecture date intervention APV,Reading date APV intervention
+Output Control témoins via CAN,Output Control Witnesses via CAN
+Accélération autodiag,Acceleration AUTODIAG
+Verrouillage Déverrouillage,Lock Unlock
+Diagnostic réseau MUX,MUX network diagnosis
+EcritureConfigVehicule,Writingconfigveicule
+Output Control Crashoutput,Output Control Crashoutput
+Etat Déclenchement Allumeurs,ITLUSTER STANDING CONDITION
+Lecture date fabrication vehicule,Reading date manufacturing vehicle
+Lecture impédances lignes MAF et capteurs,Impedances reading MAF lines and sensors
+Correction seuils Impédances Lignes MAF,Correction Impedances MAF Lines Impedances
+Trame de traçabilité,Traceability framework
+ClearDiagInformation,ClearDiagInformation
+Ecriture VIN,VIN Writing
+Retour Configuration ES par defaut,Return configuration is by default
+Diagnostic,Diagnostic
+Conf ECU airbag si monté sur X74 ou X73,Conf Ecu Airbag if mounted on X74 or X73
+Lecture des configuration des trames,Reading the frame configuration
+Identification calculateur,Calculator identification
+Conf ECU airbag si monté sur J81,Conf Ecu Airbag if mounted on J81
+Pilotage des témoins via CAN,Control of witnesses via CAN
+Nombre de défauts présents en RAM,Number of faults present in RAM
+Nombre de défauts mémorisés en RAM,Number of defects stored in RAM
+Etat du systeme,System State
+Boitier verrouillé par diagnostique,Box locked by diagnosis
+Boitier configuré par diagnostique,Box configured by diagnosis
+Témoin défaut airbag,Airbag fault warning light
+Témoin d'inhibition,Muting lamp
+Crash détecté,Detected crash
+Nombre de RAZ EEPROM,Number of EEPROM resets
+Diagnostique accéléré,Accelerated diagnostic
+Etat capteurs SBR passager,Passenger SBR Sensors State
+Lignes configurées,Configured lines
+OK,OK
+Trame diag Mux (B1),Frame diag Mux (B1)
+Lecture du VIN,VIN reading
+Lecture des informations de traçabilité,Reading traceability information
+Reference messagerie CAN,Reference Messaging CAN
+Présence trame ABS,Presence of ABS frame
+Présence trame TdB,Presence of TdB frame
+Trame diag Mux (B2),Frame diag Mux (B2)
+Lecture,Reading
+Identification du calculateur,Calculator identification
+Référence calculateur,Calculator reference
+Code Vdiag,VDIAG code
+Réference HW,Reference HW
+Réference SW,Reference SW
+Version calibration,Calibration version
+Type vehicule hote,Host vehicle type
+Capteurs,Sensors
+Lignes de mise à feu 74/73,Firing lines 74/73
+Cote de direction,Steering side
+Verrouillage/deverrouillage de la mise à Feu,Firing lock/unlock
+Configurer la liaison high G (pour X73),Configure the High G link (for x73)
+Configurer la clé d'inhibition,Configure the inhibition key
+Configurer le capteur de position siège conducteur,Configure the driver's seat position sensor
+Airbag latéral thorax arrière coté passager,Lateral Airbag Rear thorax passenger side
+Airbag latéral thorax arrière coté conducteur,Lateral airbag Standard thorax on the driver's side
+Airbag latéral thorax passager,Lateral Passenger Thorax Airbag
+Airbag latéral thorax conducteur,Driver thorax side airbag
+Airbag rideau passager,Airbag Passenger curtain
+Airbag rideau conducteur,Driver Curtain Airbag
+Airbag frontal passager niveau 2,Passenger front airbag Level 2
+Airbag frontal passager niveau 1,Passenger front airbag Level 1
+Airbag frontal conducteur niveau 1,Driver Front Airbag Level 1
+Airbag frontal conducteur niveau 2,Level 2 driver front airbag
+PPB et enrouleur en série coté conducteur,PPB and serial roller on the driver's side
+PPB et enrouleur en série cote passager,PPB and serial roller Passenger
+PPV passager (pour X73),Passenger PPV (for x73)
+Retour à la configuration des E/S par défaut,Back to default E/S configuration
+Retour à la configuration des lignes de MaF par défaut,Back to configuration of default MAF lines
+Ecrire le cote de direction,Write steering side
+ligne 1,line 1
+ligne 2,line 2
+ligne 3,line 3
+ligne 4,line 4
+ligne 5,line 5
+ligne 6,line 6
+ligne 7,line 7
+ligne 8,line 8
+ligne 9,line 9
+ligne 10,line 10
+ligne 11,line 11
+ligne 12,line 12
+ligne 13,line 13
+ligne 14,line 14
+Réservé,Reserve
+Etat de configuration,Configuration
+Boitier verrouillé,Locked box
+Impedance lue sur la ligne ,Impedance read on the line
+une valeur affichée supérieur à 10 ohms correspond à un C.O.,A value displayed greater than 10 ohms corresponds to a C.O.
+Remarque :,Remark :
+Ohms,Ohms
+Ecriture,Writing
+Lignes de mise à feu J81,Fire -up lines J81
+Airbag latéral thorax avant passager,Front passenger thorax side airbag
+Airbag latéral thorax avant conducteur,Front driver thorax side airbag
+Airbag latéral rideau tête 1 et 2 rangées passager,Head curtain side airbag 1 and 2 passenger rows
+Airbag latéral rideau tête 1 et 2 rangées conducteur,Head curtain side airbag 1 and 2 driver rows
+Airbag frontal passager adaptatif niveau 2,Level 2 adaptive passenger's front airbag
+Airbag frontal passager adaptatif niveau 1,Level 1 adaptive passenger's front airbag
+Airbag frontal conducteur adapttif niveau 1,Level 1 adaptive driver's front airbag
+Airbag frontal conducteur adaptatif niveau 2,Level 2 adaptive driver's front airbag
+PPBs avant en serie,PPBS front in series
+PPV avant conducteur,PPV front driver
+PPV avant passager,PPV front passenger
+Airbag latéral rideau tête 3 rangée passager,3rd row passenger head curtain side airbag
+Airbag latéral rideau tête 3 rangée conducteur,3rd row driver head curtain side airbag
